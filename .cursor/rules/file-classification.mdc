@@ -159,7 +159,8 @@ d:\AI驱动整理乱七八糟\
 1. 根据内容判断**主题**（LCC 映射）及顶层类别
 2. 存入对应主题子目录
 3. 按命名规范重命名
-4. 更新 INDEX.md
+4. **若为 PDF 等大文件**（如 research 论文），同目录下创建同名 `.md` 元信息文件
+5. 更新 INDEX.md
 
 **精读笔记**（含词汇、翻译、语料积累的外刊/原文精读）：按**被精读原文的主题**归类，存入 `reading/notes/{主题}/`，结构与命名详见 [reading-notes-classification.mdc](reading-notes-classification.mdc)。
 
@@ -168,13 +169,15 @@ d:\AI驱动整理乱七八糟\
 1. 判断主题及格式，存入对应子目录
 2. 按命名规范重命名
 3. **生成 Markdown 摘要**，存入 `generated/summaries/`（元信息、内容描述、原文件链接、标签）
-4. 更新 INDEX.md
+4. **在同目录下创建同名 `.md` 元信息文件**：包含标题、类型、日期、原文件名、摘要链接（若有），便于 Git 仅提交条目、不提交大文件
+5. 更新 INDEX.md
 
 ### 数据类（data）
 
 1. 判断主题及子类别（spreadsheets / datasets / other）
 2. 存入对应目录，按命名规范重命名
-3. 更新 INDEX.md
+3. **若为表格等大文件**，同目录下创建同名 `.md` 元信息文件
+4. 更新 INDEX.md
 
 摘要文件命名：`{序号}-{原文件标题}-summary-{日期}.md`
 
@@ -187,4 +190,4 @@ d:\AI驱动整理乱七八糟\
 
 **序号校验**：各子目录内序号须连续、无重号；`generated/summaries/` 内序号独立流水，不与源文件序号挂钩。
 
-**大文件清单**：完成 images、videos、audio、data 及 research 中 PDF 等大文件的分类后，除更新 INDEX.md 外，须同步更新根目录 `LARGE_FILES_MANIFEST.md`（本仓库不提交大文件本身，仅存条目）。
+**大文件与空目录**：大文件（图片、视频、PDF、音频、表格等）不提交 Git，在同保存位置创建**同名 `.md`** 元信息文件即可。空目录需放入 `.gitkeep` 以便 Git 追踪目录结构。

@@ -1,15 +1,11 @@
-# 大文件清单（本仓库不存储，仅存条目）
+# 大文件说明
 
-以下文件因体积较大未纳入 Git，仅在此保留元数据便于检索。本地路径为相对路径。
+本仓库**不提交**图片、视频、PDF、音频、表格等大文件，仅提交其**元信息**。
 
-| 路径 | 标题 | 类型 | 日期 | 摘要 |
-|------|------|------|------|------|
-| images/photos/geography/001-City-Rooftops-Dramatic-Sky-2026-03-08.png | 城市屋顶与戏剧性天空 | 图片 | 2026-03-08 | [摘要](generated/summaries/002-City-Rooftops-Dramatic-Sky-summary-2026-03-08.md) |
-| images/diagrams/politics/001-US-Military-Bases-Middle-East-Map-2026-03-08.png | 美国在中东的军事基地地图 | 图片 | 2026-03-08 | [摘要](generated/summaries/001-US-Military-Bases-Middle-East-Map-summary-2026-03-08.md) |
-| videos/recordings/001-m2-Res-1280p-2026-03-08.mp4 | F-35 战机护送荷航航班 | 视频 | 2026-03-08 | [摘要](generated/summaries/003-m2-Res-1280p-summary-2026-03-08.md) |
-| research/papers/bibliography/001-Logic-and-Organization-of-Information-Fricke-2012-2025-03-08.pdf | Logic and the Organization of Information (Frické, 2012) | PDF | 2025-03-08 | — |
-| research/papers/bibliography/002-Organization-of-Information-3rd-Ed-Taylor-Joudrey-2008-2025-03-08.pdf | The Organization of Information, 3rd Edition (Taylor & Joudrey, 2008) | PDF | 2025-03-08 | — |
+**元信息存放方式**：每个大文件在其**保存目录**下有一份同名 `.md` 文件，写入标题、类型、日期、原文件名、摘要链接等。例如：
 
----
+- `images/diagrams/politics/001-xxx.png` → 同目录下有 `001-xxx.md`
+- `videos/recordings/001-xxx.mp4` → 同目录下有 `001-xxx.md`
+- `research/papers/bibliography/001-xxx.pdf` → 同目录下有 `001-xxx.md`
 
-**维护说明**：新增大文件分类后，除更新 [INDEX.md](INDEX.md) 外，须同步更新本清单。
+完整条目见 [INDEX.md](INDEX.md)。

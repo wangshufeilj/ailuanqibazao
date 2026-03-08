@@ -1,8 +1,4 @@
-# 大文件不提交，仅保留条目（见 LARGE_FILES_MANIFEST.md）
-/images/
-/videos/
-/audio/
-/data/
+# 大文件不提交，仅保留同目录下的 .md 元信息文件
 *.pdf
 *.xlsx
 *.xls
