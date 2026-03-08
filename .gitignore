@@ -1,0 +1,30 @@
+# 大文件不提交，仅保留条目（见 LARGE_FILES_MANIFEST.md）
+/images/
+/videos/
+/audio/
+/data/
+*.pdf
+*.xlsx
+*.xls
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.mp4
+*.mov
+*.avi
+*.mp3
+*.wav
+*.m4a
+
+# 系统与 IDE（可选）
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Cursor 项目本地数据（保留 .cursor/rules/）
+.cursor/projects/
+.cursor/agent-transcripts/

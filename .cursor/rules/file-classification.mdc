@@ -1,0 +1,190 @@
+---
+description: 多格式文件分类规则：目录结构、命名规范、多媒体处理流程
+alwaysApply: true
+---
+
+# 多格式文件分类体系
+
+当用户提供各类文件（Markdown、图片、视频、Word、表格等）时，按本规则进行分类、存储与处理。内容主要来自互联网，支持多语言、多类型。
+
+## 一、目录结构
+
+**顶层类别 12 个**，每类深度不超过 **4 层**。主题分类采用美国国会分类法（LCC），见下方「主题分类体系」。
+
+```
+d:\AI驱动整理乱七八糟\
+├── inbox/                    # 待分类入口
+├── articles/                 # 文章（博客、专栏、长文）
+│   ├── general/              # 综合/总论
+│   ├── philosophy/           # 哲学、心理学、宗教
+│   ├── history-auxiliary/    # 史学辅助（考古、档案等）
+│   ├── history/              # 历史（含中国特色子类）
+│   │   ├── world/
+│   │   ├── china/
+│   │   │   ├── tongshi/      # 通史
+│   │   │   ├── duandaishi/   # 断代史
+│   │   │   ├── revolutionary/  # 革命史
+│   │   │   ├── cultural/     # 文化史
+│   │   │   ├── local/        # 地方史志
+│   │   │   └── ethnic/       # 民族史志
+│   │   ├── europe/
+│   │   ├── americas/
+│   │   ├── asia/
+│   │   └── other/
+│   ├── geography/            # 地理、人类学、休闲
+│   ├── social-sciences/      # 社会科学（经济、社会学）
+│   ├── politics/             # 政治
+│   ├── law/                  # 法律
+│   ├── education/            # 教育
+│   ├── arts/                 # 艺术、音乐
+│   ├── language-literature/  # 语言与文学
+│   ├── science/              # 科学
+│   ├── medicine/             # 医学
+│   ├── agriculture/          # 农业
+│   ├── technology/           # 技术
+│   ├── military/             # 军事
+│   ├── bibliography/         # 文献、信息科学
+│   └── other/
+├── news/                     # 新闻资讯（结构同 articles）
+├── research/                 # 研究/学术
+│   ├── papers/               # 论文，其下按主题分子目录
+│   └── other/
+├── tutorials/                # 教程/指南（结构同 articles）
+├── reference/                # 参考资料
+│   ├── docs/                 # 文档，其下按主题分子目录
+│   └── other/
+├── social/                   # 社交媒体/讨论
+│   ├── posts/                # 帖子，其下按主题分子目录
+│   ├── discussions/          # 讨论，其下按主题分子目录
+│   └── other/
+├── reading/                  # 阅读笔记/书摘
+│   ├── notes/                # 笔记，其下按主题分子目录
+│   ├── excerpts/             # 摘录，其下按主题分子目录
+│   └── other/
+├── images/                   # 图片（格式子目录下可按主题分）
+│   ├── screenshots/
+│   ├── diagrams/
+│   ├── photos/
+│   └── other/
+├── videos/                   # 视频
+│   ├── tutorials/
+│   ├── recordings/
+│   └── other/
+├── data/                     # 数据/表格
+│   ├── spreadsheets/
+│   ├── datasets/
+│   └── other/
+├── audio/                    # 音频
+│   ├── podcasts/
+│   └── other/
+├── creative/                 # 创意/文学
+│   ├── writing/              # 写作，其下按主题分子目录
+│   └── other/
+├── generated/                # AI 生成内容
+│   └── summaries/            # 多媒体摘要
+└── INDEX.md                  # 主索引文件
+```
+
+---
+
+## 二、主题分类体系（LCC）
+
+采用美国国会分类法（Library of Congress Classification）映射为主题目录，各类别复用：
+
+| LCC 类 | 主题目录名 | 中文说明 |
+|--------|------------|----------|
+| A | general | 综合/总论 |
+| B | philosophy | 哲学、心理学、宗教 |
+| C | history-auxiliary | 史学辅助（考古、档案等） |
+| D–F | history | 历史（世界、欧美、亚非等） |
+| G | geography | 地理、人类学、休闲 |
+| H | social-sciences | 社会科学（经济、社会学） |
+| J | politics | 政治 |
+| K | law | 法律 |
+| L | education | 教育 |
+| M–N | arts | 艺术、音乐 |
+| P | language-literature | 语言与文学 |
+| Q | science | 科学 |
+| R | medicine | 医学 |
+| S | agriculture | 农业 |
+| T | technology | 技术 |
+| U–V | military | 军事 |
+| Z | bibliography | 文献、信息科学 |
+
+### 历史类中国特色（参考中国图书馆分类法 K 类）
+
+`history/china/` 下增设：
+
+| 子目录 | 中文说明 |
+|--------|----------|
+| tongshi | 通史 |
+| duandaishi | 断代史（先秦、秦汉、隋唐、宋元、明清、近代等） |
+| revolutionary | 革命史 |
+| cultural | 文化史 |
+| local | 地方史志 |
+| ethnic | 民族史志 |
+
+### 可扩展性
+
+若内容无法归入现有主题，可在对应类型下**新建主题子目录**，命名采用小写英文连字符；新建后需更新本规则文档与 INDEX.md 的类别说明。
+
+---
+
+## 三、分类原则
+
+1. **先按内容语义选主题**（LCC 映射），再按格式归入对应顶层类别。
+2. 按内容语义归类，与文件格式、语言无关。
+3. 无法判断主题时，归入对应顶层下的 `other/`。
+4. 无法匹配现有主题时，可新建主题子目录（见上文「可扩展性」）。
+
+## 四、命名规范
+
+统一格式：`序号-标题-日期.扩展名`
+
+- **序号**：在各自子目录内流水编号（001、002…）
+- **标题**：内容主题，支持多语言（英文连字符或中文）
+- **日期**：录入日期 YYYY-MM-DD
+
+| 类型 | 示例 |
+|------|------|
+| 文档 | `001-Russian-Oligarch-Lebedev-Notes-2025-03-08.md` |
+| 图片 | `001-Product-Screenshot-2025-03-08.png` |
+| 视频 | `001-Meeting-Recording-2025-03-08.mp4` |
+| 表格 | `001-Sales-Data-Q1-2025-03-08.xlsx` |
+
+## 五、处理流程
+
+### 文本类（articles / news / research / tutorials / reference / social / reading / creative）
+
+1. 根据内容判断**主题**（LCC 映射）及顶层类别
+2. 存入对应主题子目录
+3. 按命名规范重命名
+4. 更新 INDEX.md
+
+**精读笔记**（含词汇、翻译、语料积累的外刊/原文精读）：按**被精读原文的主题**归类，存入 `reading/notes/{主题}/`，结构与命名详见 [reading-notes-classification.mdc](reading-notes-classification.mdc)。
+
+### 多媒体（images / videos / audio）
+
+1. 判断主题及格式，存入对应子目录
+2. 按命名规范重命名
+3. **生成 Markdown 摘要**，存入 `generated/summaries/`（元信息、内容描述、原文件链接、标签）
+4. 更新 INDEX.md
+
+### 数据类（data）
+
+1. 判断主题及子类别（spreadsheets / datasets / other）
+2. 存入对应目录，按命名规范重命名
+3. 更新 INDEX.md
+
+摘要文件命名：`{序号}-{原文件标题}-summary-{日期}.md`
+
+- **序号**：在 `generated/summaries/` 目录内独立流水编号（001、002、003…）
+- **不继承原文件序号**，避免多个源文件（如 images、videos 中各自 001）生成摘要时序号冲突
+
+## 六、INDEX.md 更新
+
+每次完成分类或生成摘要后，在 INDEX.md 中追加或更新对应条目，包含：标题、类型、主题、日期、路径、摘要链接（多媒体类）。
+
+**序号校验**：各子目录内序号须连续、无重号；`generated/summaries/` 内序号独立流水，不与源文件序号挂钩。
+
+**大文件清单**：完成 images、videos、audio、data 及 research 中 PDF 等大文件的分类后，除更新 INDEX.md 外，须同步更新根目录 `LARGE_FILES_MANIFEST.md`（本仓库不提交大文件本身，仅存条目）。
