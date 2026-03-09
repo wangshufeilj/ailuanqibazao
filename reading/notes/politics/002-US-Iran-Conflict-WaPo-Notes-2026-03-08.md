@@ -1222,4 +1222,4 @@ This article, filed from multiple datelines (London, Tel Aviv, Beirut, Cairo), r
 
 ---
 
-*本文档遵循 [reading-notes-classification.mdc](.cursor/rules/reading-notes-classification.mdc) 规范，按原文主题归类至 politics。*
+*本文档按 [file-classification.mdc](.cursor/rules/file-classification.mdc) 规范，按内容主题归类至 reading/notes/politics。*

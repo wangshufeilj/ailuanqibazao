@@ -1,0 +1,94 @@
+---
+description: Python 技术栈规范：所有文件操作和脚本使用 Python
+alwaysApply: true
+---
+
+# Python 技术栈规范
+
+## 一、基本原则
+
+**本项目统一使用 Python 作为技术栈**，所有文件操作、脚本编写、自动化任务均使用 Python 实现。
+
+## 二、技术选择
+
+### 2.1 文件系统操作
+
+- **使用 Python 标准库**：
+  - `pathlib.Path`：路径操作（推荐）
+  - `os`：系统级操作
+  - `shutil`：文件/目录复制、移动、删除
+  - `glob`：文件模式匹配
+
+- **禁止使用**：
+  - PowerShell 命令（除非系统级必需）
+  - Bash/Shell 脚本（除非跨平台兼容性要求）
+
+### 2.2 脚本编写
+
+- 所有自动化脚本使用 Python 编写
+- 脚本文件命名：`snake_case.py`（如 `file_classifier.py`）
+- 使用类型提示（Type Hints）提高代码可读性
+- 遵循 PEP 8 代码风格规范
+
+### 2.3 依赖管理
+
+- 使用 `requirements.txt` 记录项目依赖
+- 优先使用 Python 标准库，减少外部依赖
+- 如需第三方库，选择稳定、维护良好的库
+
+## 三、示例
+
+### 3.1 创建目录
+
+```python
+from pathlib import Path
+
+# 创建目录（如果不存在）
+target_dir = Path("reading/notes/science")
+target_dir.mkdir(parents=True, exist_ok=True)
+```
+
+### 3.2 文件操作
+
+```python
+from pathlib import Path
+import shutil
+
+# 读取文件
+file_path = Path("INDEX.md")
+content = file_path.read_text(encoding="utf-8")
+
+# 写入文件
+new_file = Path("reading/notes/science/001-example.md")
+new_file.write_text(content, encoding="utf-8")
+
+# 移动文件
+shutil.move("source.txt", "target.txt")
+```
+
+### 3.3 文件搜索
+
+```python
+from pathlib import Path
+
+# 搜索 Markdown 文件
+md_files = list(Path("reading/notes").rglob("*.md"))
+```
+
+## 四、优势
+
+1. **跨平台兼容性**：Python 代码可在 Windows、macOS、Linux 上运行
+2. **版本控制清晰**：通过 `requirements.txt` 管理依赖版本
+3. **可测试性**：Python 单元测试框架成熟
+4. **长期维护**：Python 生态成熟，社区支持广泛
+5. **代码复用**：Python 脚本易于模块化和复用
+
+## 五、例外情况
+
+仅在以下情况下可使用非 Python 工具：
+
+1. **系统级必需操作**：如检查系统环境变量、调用系统命令
+2. **性能关键场景**：如需要调用编译后的二进制工具
+3. **用户明确要求**：用户明确指定使用其他工具
+
+即便如此，也应优先考虑 Python 的替代方案。

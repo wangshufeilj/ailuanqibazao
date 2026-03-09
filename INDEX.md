@@ -77,7 +77,17 @@
 | [密歇根与俄克拉荷马龙卷风精读笔记（NYT）](reading/notes/geography/001-Michigan-Oklahoma-Tornadoes-NYT-2026-03-08.md) | notes/geography | 2026-03-08 | reading/notes/geography/001-Michigan-Oklahoma-Tornadoes-NYT-2026-03-08.md | — |
 | [美伊冲突特朗普扩大打击目标精读笔记（WaPo）](reading/notes/politics/002-US-Iran-Conflict-WaPo-Notes-2026-03-08.md) | notes/politics | 2026-03-08 | reading/notes/politics/002-US-Iran-Conflict-WaPo-Notes-2026-03-08.md | — |
 | [美国海湾军事基地与匈乌资金纠纷精读笔记（RT）](reading/notes/politics/003-US-Gulf-Bases-Hungary-Ukraine-RT-Notes-2026-03-08.md) | notes/politics | 2026-03-08 | reading/notes/politics/003-US-Gulf-Bases-Hungary-Ukraine-RT-Notes-2026-03-08.md | — |
+| [俄罗斯国防部官员贪污案精读笔记（RT）](reading/notes/politics/004-Russian-Defense-Ministry-Official-Graft-Case-RT-2026-03-08.md) | notes/politics | 2026-03-08 | reading/notes/politics/004-Russian-Defense-Ministry-Official-Graft-Case-RT-2026-03-08.md | — |
+| [美国海湾军事基地与匈乌资金纠纷草稿 Part1](reading/notes/politics/005-US-Gulf-Bases-Hungary-Ukraine-Draft-Part1-2026-03-08.txt) | notes/politics | 2026-03-08 | reading/notes/politics/005-US-Gulf-Bases-Hungary-Ukraine-Draft-Part1-2026-03-08.txt | — |
+| [美国海湾军事基地与匈乌资金纠纷草稿 Part2](reading/notes/politics/006-US-Gulf-Bases-Hungary-Ukraine-Draft-Part2-2026-03-08.txt) | notes/politics | 2026-03-08 | reading/notes/politics/006-US-Gulf-Bases-Hungary-Ukraine-Draft-Part2-2026-03-08.txt | — |
 | [Cursor 模型与定价精读笔记](reading/notes/technology/001-Cursor-Models-Pricing-Notes-2026-03-08.md) | notes/technology | 2026-03-08 | reading/notes/technology/001-Cursor-Models-Pricing-Notes-2026-03-08.md | — |
+| [肯尼亚警方营救人口贩卖受害者精读笔记（RT）](reading/notes/law/001-Kenyan-Police-Rescue-Trafficking-Victims-RT-2026-03-08.md) | notes/law | 2026-03-08 | reading/notes/law/001-Kenyan-Police-Rescue-Trafficking-Victims-RT-2026-03-08.md | — |
+| [美元霸权与关税民粹主义精读笔记（RT）](reading/notes/social-sciences/002-Dollar-Dominance-US-Tariff-Populism-RT-2026-03-08.md) | notes/social-sciences | 2026-03-08 | reading/notes/social-sciences/002-Dollar-Dominance-US-Tariff-Populism-RT-2026-03-08.md | — |
+| [俄罗斯天然气时代的终结精读笔记（RT）](reading/notes/social-sciences/003-End-Russia-Gas-Era-EU-RT-Notes-2026-03-08.md) | notes/social-sciences | 2026-03-08 | reading/notes/social-sciences/003-End-Russia-Gas-Era-EU-RT-Notes-2026-03-08.md | — |
+| [Mediterranean Man 锐评美以军战略（克劳塞维茨视角）精读笔记](reading/notes/military/001-Mediterranean-Man-Clausewitz-US-Israeli-Military-Strategy-Notes-2026-03-08.md) | notes/military | 2026-03-08 | reading/notes/military/001-Mediterranean-Man-Clausewitz-US-Israeli-Military-Strategy-Notes-2026-03-08.md | — |
+| [女性工作：最初两万年——古代女性与纺织经济精读笔记](reading/notes/history/001-Womens-Work-Textiles-Ancient-Economy-Econs-Notes-2026-03-09.md) | notes/history | 2026-03-09 | reading/notes/history/001-Womens-Work-Textiles-Ancient-Economy-Econs-Notes-2026-03-09.md | — |
+| [女性工作：最初两万年——古代女性与纺织经济精读笔记（Econs）](reading/notes/history/001-Womens-Work-Textiles-Ancient-Economy-Econs-Notes-2026-03-09.md) | notes/history | 2026-03-09 | reading/notes/history/001-Womens-Work-Textiles-Ancient-Economy-Econs-Notes-2026-03-09.md | — |
+| [为什么哺乳动物不像爬行动物、鸟类或鱼类那样色彩斑斓？精读笔记（Live Science）](reading/notes/science/001-Why-Mammals-Not-Colorful-Live-Science-Notes-2026-03-09.md) | notes/science | 2026-03-09 | reading/notes/science/001-Why-Mammals-Not-Colorful-Live-Science-Notes-2026-03-09.md | — |
 
 ### 文章 (articles)
 
@@ -89,7 +99,7 @@
 
 | 标题 | 子类 | 日期 | 路径 | 摘要 |
 |------|------|------|------|------|
-| *（暂无）* | — | — | — | — |
+| [特朗普提名马克韦恩·穆林任国土安全部长（RT）](news/politics/001-Markwayne-Mullin-DHS-Nominee-RT-2026-03-08.md) | politics | 2026-03-08 | news/politics/001-Markwayne-Mullin-DHS-Nominee-RT-2026-03-08.md | — |
 
 ### 研究 (research)
 
@@ -97,6 +107,8 @@
 |------|------|------|------|------|
 | [Logic and the Organization of Information (Frické, 2012)](research/papers/bibliography/001-Logic-and-Organization-of-Information-Fricke-2012-2025-03-08.pdf) | papers/bibliography | 2025-03-08 | research/papers/bibliography/001-Logic-and-Organization-of-Information-Fricke-2012-2025-03-08.pdf | — |
 | [The Organization of Information, 3rd Edition (Taylor & Joudrey, 2008)](research/papers/bibliography/002-Organization-of-Information-3rd-Ed-Taylor-Joudrey-2008-2025-03-08.pdf) | papers/bibliography | 2025-03-08 | research/papers/bibliography/002-Organization-of-Information-3rd-Ed-Taylor-Joudrey-2008-2025-03-08.pdf | — |
+| [ЦМАКП：俄罗斯工业产值动态（2025年1月）](research/papers/social-sciences/001-CMAKP-Russia-Industrial-Production-Jan-2025-2026-03-09.pdf) | papers/social-sciences | 2026-03-09 | research/papers/social-sciences/001-CMAKP-Russia-Industrial-Production-Jan-2025-2026-03-09.pdf | — |
+| [世界主要经济体发展趋势：美国、欧元区和中国（2026年2月）](research/papers/social-sciences/002-World-Trends-February-2026-CMAKP-2026-03-09.pdf) | papers/social-sciences | 2026-03-09 | research/papers/social-sciences/002-World-Trends-February-2026-CMAKP-2026-03-09.pdf | — |
 
 ### 教程 (tutorials)
 
@@ -122,6 +134,11 @@
 |------|------|------|------|------|
 | [城市屋顶与戏剧性天空](images/photos/geography/001-City-Rooftops-Dramatic-Sky-2026-03-08.png) | photos/geography | 2026-03-08 | images/photos/geography/001-City-Rooftops-Dramatic-Sky-2026-03-08.png | [摘要](generated/summaries/002-City-Rooftops-Dramatic-Sky-summary-2026-03-08.md) |
 | [美国在中东的军事基地地图](images/diagrams/politics/001-US-Military-Bases-Middle-East-Map-2026-03-08.png) | diagrams/politics | 2026-03-08 | images/diagrams/politics/001-US-Military-Bases-Middle-East-Map-2026-03-08.png | [摘要](generated/summaries/001-US-Military-Bases-Middle-East-Map-summary-2026-03-08.md) |
+| [TASS 通讯社新闻图片](images/photos/politics/001-TASS-News-Photo-2026-03-09.webp) | photos/politics | 2026-03-09 | images/photos/politics/001-TASS-News-Photo-2026-03-09.webp | [摘要](generated/summaries/004-TASS-News-Photo-summary-2026-03-09.md) |
+| [网页图片](images/photos/general/001-Web-Image-2026-03-09.webp) | photos/general | 2026-03-09 | images/photos/general/001-Web-Image-2026-03-09.webp | [摘要](generated/summaries/005-Web-Image-summary-2026-03-09.md) |
+| [《每日电讯报》头版：斯塔默呼吁美国与伊朗谈判](images/photos/politics/002-Daily-Telegraph-Starmer-US-Iran-2026-03-09.jpg) | photos/politics | 2026-03-09 | images/photos/politics/002-Daily-Telegraph-Starmer-US-Iran-2026-03-09.jpg | [摘要](generated/summaries/006-Daily-Telegraph-Starmer-US-Iran-summary-2026-03-09.md) |
+| [城市天际线：烟雾笼罩的日出/日落景象](images/photos/general/002-City-Skyline-Smoke-Sunset-2026-03-09.jpg) | photos/general | 2026-03-09 | images/photos/general/002-City-Skyline-Smoke-Sunset-2026-03-09.jpg | [摘要](generated/summaries/007-City-Skyline-Smoke-Sunset-summary-2026-03-09.md) |
+| [山魈野生动物照片](images/photos/science/001-Mandrill-Wildlife-Photo-2026-03-09.jpg) | photos/science | 2026-03-09 | images/photos/science/001-Mandrill-Wildlife-Photo-2026-03-09.jpg | [摘要](generated/summaries/008-Mandrill-Wildlife-Photo-summary-2026-03-09.md) |
 
 ### 视频 (videos)
 
@@ -146,3 +163,9 @@
 | 标题 | 子类 | 日期 | 路径 | 摘要 |
 |------|------|------|------|------|
 | *（暂无）* | — | — | — | — |
+
+### 官方文档 (official-documents)
+
+| 标题 | 子类 | 日期 | 路径 | 摘要 |
+|------|------|------|------|------|
+| [中华人民共和国职业分类大典（2022年版）](official-documents/government/001-China-Occupational-Classification-Dictionary-2022-2026-03-09.pdf) | government | 2026-03-09 | official-documents/government/001-China-Occupational-Classification-Dictionary-2022-2026-03-09.pdf | — |
