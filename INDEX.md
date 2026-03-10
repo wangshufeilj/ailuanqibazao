@@ -78,22 +78,22 @@
 | [美伊冲突特朗普扩大打击目标精读笔记（WaPo）](reading/notes/politics/002-US-Iran-Conflict-WaPo-Notes-2026-03-08.md) | notes/politics | 2026-03-08 | reading/notes/politics/002-US-Iran-Conflict-WaPo-Notes-2026-03-08.md | — |
 | [美国海湾军事基地与匈乌资金纠纷精读笔记（RT）](reading/notes/politics/003-US-Gulf-Bases-Hungary-Ukraine-RT-Notes-2026-03-08.md) | notes/politics | 2026-03-08 | reading/notes/politics/003-US-Gulf-Bases-Hungary-Ukraine-RT-Notes-2026-03-08.md | — |
 | [俄罗斯国防部官员贪污案精读笔记（RT）](reading/notes/politics/004-Russian-Defense-Ministry-Official-Graft-Case-RT-2026-03-08.md) | notes/politics | 2026-03-08 | reading/notes/politics/004-Russian-Defense-Ministry-Official-Graft-Case-RT-2026-03-08.md | — |
-| [美国海湾军事基地与匈乌资金纠纷草稿 Part1](reading/notes/politics/005-US-Gulf-Bases-Hungary-Ukraine-Draft-Part1-2026-03-08.txt) | notes/politics | 2026-03-08 | reading/notes/politics/005-US-Gulf-Bases-Hungary-Ukraine-Draft-Part1-2026-03-08.txt | — |
-| [美国海湾军事基地与匈乌资金纠纷草稿 Part2](reading/notes/politics/006-US-Gulf-Bases-Hungary-Ukraine-Draft-Part2-2026-03-08.txt) | notes/politics | 2026-03-08 | reading/notes/politics/006-US-Gulf-Bases-Hungary-Ukraine-Draft-Part2-2026-03-08.txt | — |
+| [美国海湾军事基地与匈乌资金纠纷草稿 Part1](reading/notes/politics/005-US-Gulf-Bases-Hungary-Ukraine-Draft-Part1-2026-03-08.md) | notes/politics | 2026-03-08 | reading/notes/politics/005-US-Gulf-Bases-Hungary-Ukraine-Draft-Part1-2026-03-08.md | — |
+| [美国海湾军事基地与匈乌资金纠纷草稿 Part2](reading/notes/politics/006-US-Gulf-Bases-Hungary-Ukraine-Draft-Part2-2026-03-08.md) | notes/politics | 2026-03-08 | reading/notes/politics/006-US-Gulf-Bases-Hungary-Ukraine-Draft-Part2-2026-03-08.md | — |
 | [Cursor 模型与定价精读笔记](reading/notes/technology/001-Cursor-Models-Pricing-Notes-2026-03-08.md) | notes/technology | 2026-03-08 | reading/notes/technology/001-Cursor-Models-Pricing-Notes-2026-03-08.md | — |
 | [肯尼亚警方营救人口贩卖受害者精读笔记（RT）](reading/notes/law/001-Kenyan-Police-Rescue-Trafficking-Victims-RT-2026-03-08.md) | notes/law | 2026-03-08 | reading/notes/law/001-Kenyan-Police-Rescue-Trafficking-Victims-RT-2026-03-08.md | — |
 | [美元霸权与关税民粹主义精读笔记（RT）](reading/notes/social-sciences/002-Dollar-Dominance-US-Tariff-Populism-RT-2026-03-08.md) | notes/social-sciences | 2026-03-08 | reading/notes/social-sciences/002-Dollar-Dominance-US-Tariff-Populism-RT-2026-03-08.md | — |
 | [俄罗斯天然气时代的终结精读笔记（RT）](reading/notes/social-sciences/003-End-Russia-Gas-Era-EU-RT-Notes-2026-03-08.md) | notes/social-sciences | 2026-03-08 | reading/notes/social-sciences/003-End-Russia-Gas-Era-EU-RT-Notes-2026-03-08.md | — |
 | [Mediterranean Man 锐评美以军战略（克劳塞维茨视角）精读笔记](reading/notes/military/001-Mediterranean-Man-Clausewitz-US-Israeli-Military-Strategy-Notes-2026-03-08.md) | notes/military | 2026-03-08 | reading/notes/military/001-Mediterranean-Man-Clausewitz-US-Israeli-Military-Strategy-Notes-2026-03-08.md | — |
-| [女性工作：最初两万年——古代女性与纺织经济精读笔记](reading/notes/history/001-Womens-Work-Textiles-Ancient-Economy-Econs-Notes-2026-03-09.md) | notes/history | 2026-03-09 | reading/notes/history/001-Womens-Work-Textiles-Ancient-Economy-Econs-Notes-2026-03-09.md | — |
 | [女性工作：最初两万年——古代女性与纺织经济精读笔记（Econs）](reading/notes/history/001-Womens-Work-Textiles-Ancient-Economy-Econs-Notes-2026-03-09.md) | notes/history | 2026-03-09 | reading/notes/history/001-Womens-Work-Textiles-Ancient-Economy-Econs-Notes-2026-03-09.md | — |
 | [为什么哺乳动物不像爬行动物、鸟类或鱼类那样色彩斑斓？精读笔记（Live Science）](reading/notes/science/001-Why-Mammals-Not-Colorful-Live-Science-Notes-2026-03-09.md) | notes/science | 2026-03-09 | reading/notes/science/001-Why-Mammals-Not-Colorful-Live-Science-Notes-2026-03-09.md | — |
+| [2026年全球石油石化行业展望精读笔记](reading/notes/technology/002-2026-Global-Petroleum-Petrochemical-Industry-Outlook-Notes-2026-03-09.md) | notes/technology | 2026-03-09 | reading/notes/technology/002-2026-Global-Petroleum-Petrochemical-Industry-Outlook-Notes-2026-03-09.md | — |
 
 ### 文章 (articles)
 
 | 标题 | 子类 | 日期 | 路径 | 摘要 |
 |------|------|------|------|------|
-| *（暂无）* | — | — | — | — |
+| [全球油服市场深度解析与领军企业史精读笔记](articles/technology/001-Global-Oilfield-Services-Market-Analysis-Leading-Companies-History-2026-03-09.md) | technology | 2026-03-09 | articles/technology/001-Global-Oilfield-Services-Market-Analysis-Leading-Companies-History-2026-03-09.md | — |
 
 ### 新闻 (news)
 
@@ -134,11 +134,17 @@
 |------|------|------|------|------|
 | [城市屋顶与戏剧性天空](images/photos/geography/001-City-Rooftops-Dramatic-Sky-2026-03-08.png) | photos/geography | 2026-03-08 | images/photos/geography/001-City-Rooftops-Dramatic-Sky-2026-03-08.png | [摘要](generated/summaries/002-City-Rooftops-Dramatic-Sky-summary-2026-03-08.md) |
 | [美国在中东的军事基地地图](images/diagrams/politics/001-US-Military-Bases-Middle-East-Map-2026-03-08.png) | diagrams/politics | 2026-03-08 | images/diagrams/politics/001-US-Military-Bases-Middle-East-Map-2026-03-08.png | [摘要](generated/summaries/001-US-Military-Bases-Middle-East-Map-summary-2026-03-08.md) |
+| [2022年美国和中国研究人员论文发表份额对比图表](images/diagrams/social-sciences/001-US-China-Research-Publications-2022-2026-03-09.png) | diagrams/social-sciences | 2026-03-09 | images/diagrams/social-sciences/001-US-China-Research-Publications-2022-2026-03-09.png | [摘要](generated/summaries/013-US-China-Research-Publications-2022-summary-2026-03-09.md) |
 | [TASS 通讯社新闻图片](images/photos/politics/001-TASS-News-Photo-2026-03-09.webp) | photos/politics | 2026-03-09 | images/photos/politics/001-TASS-News-Photo-2026-03-09.webp | [摘要](generated/summaries/004-TASS-News-Photo-summary-2026-03-09.md) |
 | [网页图片](images/photos/general/001-Web-Image-2026-03-09.webp) | photos/general | 2026-03-09 | images/photos/general/001-Web-Image-2026-03-09.webp | [摘要](generated/summaries/005-Web-Image-summary-2026-03-09.md) |
 | [《每日电讯报》头版：斯塔默呼吁美国与伊朗谈判](images/photos/politics/002-Daily-Telegraph-Starmer-US-Iran-2026-03-09.jpg) | photos/politics | 2026-03-09 | images/photos/politics/002-Daily-Telegraph-Starmer-US-Iran-2026-03-09.jpg | [摘要](generated/summaries/006-Daily-Telegraph-Starmer-US-Iran-summary-2026-03-09.md) |
 | [城市天际线：烟雾笼罩的日出/日落景象](images/photos/general/002-City-Skyline-Smoke-Sunset-2026-03-09.jpg) | photos/general | 2026-03-09 | images/photos/general/002-City-Skyline-Smoke-Sunset-2026-03-09.jpg | [摘要](generated/summaries/007-City-Skyline-Smoke-Sunset-summary-2026-03-09.md) |
 | [山魈野生动物照片](images/photos/science/001-Mandrill-Wildlife-Photo-2026-03-09.jpg) | photos/science | 2026-03-09 | images/photos/science/001-Mandrill-Wildlife-Photo-2026-03-09.jpg | [摘要](generated/summaries/008-Mandrill-Wildlife-Photo-summary-2026-03-09.md) |
+| [绿色螃蟹浅水照片](images/photos/science/002-Green-Crab-Shallow-Water-2026-03-09.png) | photos/science | 2026-03-09 | images/photos/science/002-Green-Crab-Shallow-Water-2026-03-09.png | [摘要](generated/summaries/010-Green-Crab-Shallow-Water-summary-2026-03-09.md) |
+| [棘刺龙虾珊瑚礁照片](images/photos/science/003-Spiny-Lobster-Coral-Reef-2026-03-09.png) | photos/science | 2026-03-09 | images/photos/science/003-Spiny-Lobster-Coral-Reef-2026-03-09.png | [摘要](generated/summaries/011-Spiny-Lobster-Coral-Reef-summary-2026-03-09.md) |
+| [色彩斑斓螃蟹岩石海岸照片](images/photos/science/004-Colorful-Crab-Rocky-Shore-2026-03-09.png) | photos/science | 2026-03-09 | images/photos/science/004-Colorful-Crab-Rocky-Shore-2026-03-09.png | [摘要](generated/summaries/012-Colorful-Crab-Rocky-Shore-summary-2026-03-09.md) |
+| [宇宙大尺度结构可视化图](reading/notes/science/image/001-Why-Mammals-Not-Colorful-Live-Science-Notes-2026-03-09/1773057029558.png) | image/science | 2026-03-09 | reading/notes/science/image/001-Why-Mammals-Not-Colorful-Live-Science-Notes-2026-03-09/1773057029558.png | [摘要](generated/summaries/009-Cosmic-Web-Structure-Visualization-summary-2026-03-09.md) |
+| [PEDHA BS Degrees Reported](images/diagrams/education/001-PEDHA-BS-Degrees-Reported-2026-03-09.png) | diagrams/education | 2026-03-09 | images/diagrams/education/001-PEDHA-BS-Degrees-Reported-2026-03-09.png | [摘要](generated/summaries/014-PEDHA-BS-Degrees-Reported-summary-2026-03-09.md) |
 
 ### 视频 (videos)
 

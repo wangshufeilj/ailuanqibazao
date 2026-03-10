@@ -21,7 +21,23 @@
 
 在项目根目录（`d:\AI驱动整理乱七八糟`）打开终端，执行：
 
-```powershell
+**方式 1：使用 Python 脚本（推荐）**
+
+```bash
+python git_setup.py
+```
+
+然后手动执行推送命令：
+
+```bash
+git remote add origin https://github.com/<你的用户名>/<仓库名>.git
+git branch -M main
+git push -u origin main
+```
+
+**方式 2：直接使用 Git 命令**
+
+```bash
 git init
 git add .
 git status
@@ -37,7 +53,22 @@ git push -u origin main
 
 若已安装 [GitHub CLI](https://cli.github.com/)：
 
-```powershell
+**方式 1：使用 Python 脚本（推荐）**
+
+```bash
+python git_setup.py
+```
+
+然后执行：
+
+```bash
+gh auth login
+gh repo create ai-content-organizer --private --source=. --remote=origin --push
+```
+
+**方式 2：直接使用命令**
+
+```bash
 cd "d:\AI驱动整理乱七八糟"
 git init
 git add .
