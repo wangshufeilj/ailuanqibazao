@@ -82,11 +82,14 @@
 | [美国海湾军事基地与匈乌资金纠纷草稿 Part2](reading/notes/politics/006-US-Gulf-Bases-Hungary-Ukraine-Draft-Part2-2026-03-08.md) | notes/politics | 2026-03-08 | reading/notes/politics/006-US-Gulf-Bases-Hungary-Ukraine-Draft-Part2-2026-03-08.md | — |
 | [Cursor 模型与定价精读笔记](reading/notes/technology/001-Cursor-Models-Pricing-Notes-2026-03-08.md) | notes/technology | 2026-03-08 | reading/notes/technology/001-Cursor-Models-Pricing-Notes-2026-03-08.md | — |
 | [肯尼亚警方营救人口贩卖受害者精读笔记（RT）](reading/notes/law/001-Kenyan-Police-Rescue-Trafficking-Victims-RT-2026-03-08.md) | notes/law | 2026-03-08 | reading/notes/law/001-Kenyan-Police-Rescue-Trafficking-Victims-RT-2026-03-08.md | — |
+||| [ATP Oil & Gas Corporation 破产案判决书精读笔记](reading/notes/law/002-ATP-Oil-Gas-Corporation-Bankruptcy-Case-Notes-2026-03-10.md) | notes/law | 2026-03-10 | reading/notes/law/002-ATP-Oil-Gas-Corporation-Bankruptcy-Case-Notes-2026-03-10.md | — |
+
 | [美元霸权与关税民粹主义精读笔记（RT）](reading/notes/social-sciences/002-Dollar-Dominance-US-Tariff-Populism-RT-2026-03-08.md) | notes/social-sciences | 2026-03-08 | reading/notes/social-sciences/002-Dollar-Dominance-US-Tariff-Populism-RT-2026-03-08.md | — |
 | [俄罗斯天然气时代的终结精读笔记（RT）](reading/notes/social-sciences/003-End-Russia-Gas-Era-EU-RT-Notes-2026-03-08.md) | notes/social-sciences | 2026-03-08 | reading/notes/social-sciences/003-End-Russia-Gas-Era-EU-RT-Notes-2026-03-08.md | — |
 | [Mediterranean Man 锐评美以军战略（克劳塞维茨视角）精读笔记](reading/notes/military/001-Mediterranean-Man-Clausewitz-US-Israeli-Military-Strategy-Notes-2026-03-08.md) | notes/military | 2026-03-08 | reading/notes/military/001-Mediterranean-Man-Clausewitz-US-Israeli-Military-Strategy-Notes-2026-03-08.md | — |
 | [女性工作：最初两万年——古代女性与纺织经济精读笔记（Econs）](reading/notes/history/001-Womens-Work-Textiles-Ancient-Economy-Econs-Notes-2026-03-09.md) | notes/history | 2026-03-09 | reading/notes/history/001-Womens-Work-Textiles-Ancient-Economy-Econs-Notes-2026-03-09.md | — |
 | [为什么哺乳动物不像爬行动物、鸟类或鱼类那样色彩斑斓？精读笔记（Live Science）](reading/notes/science/001-Why-Mammals-Not-Colorful-Live-Science-Notes-2026-03-09.md) | notes/science | 2026-03-09 | reading/notes/science/001-Why-Mammals-Not-Colorful-Live-Science-Notes-2026-03-09.md | — |
+| [长臂微型恐龙引发对恐龙小型化重新思考精读笔记（Ars Technica）](reading/notes/science/002-Tiny-Long-Armed-Dinosaur-Rethink-Miniaturization-Notes-2026-03-11.md) | notes/science | 2026-03-11 | reading/notes/science/002-Tiny-Long-Armed-Dinosaur-Rethink-Miniaturization-Notes-2026-03-11.md | — |
 | [2026年全球石油石化行业展望精读笔记](reading/notes/technology/002-2026-Global-Petroleum-Petrochemical-Industry-Outlook-Notes-2026-03-09.md) | notes/technology | 2026-03-09 | reading/notes/technology/002-2026-Global-Petroleum-Petrochemical-Industry-Outlook-Notes-2026-03-09.md | — |
 
 ### 文章 (articles)
@@ -175,3 +178,4 @@
 | 标题 | 子类 | 日期 | 路径 | 摘要 |
 |------|------|------|------|------|
 | [中华人民共和国职业分类大典（2022年版）](official-documents/government/001-China-Occupational-Classification-Dictionary-2022-2026-03-09.pdf) | government | 2026-03-09 | official-documents/government/001-China-Occupational-Classification-Dictionary-2022-2026-03-09.pdf | — |
+
