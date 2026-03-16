@@ -6,7 +6,6 @@
 
 ### 未跟踪的文件（新文件）
 - `.cursor/rules/file-classification.mdc`
-- `.cursor/rules/markdown-output.mdc`
 - `.cursor/rules/python-tech-stack.mdc`
 - `reading/notes/game/001-Joe-Merrick-Serebii-Pokemon-Polygon-Interview-Reading-Notes-2026-03-11.md`
 - `reading/notes/law/002-ATP-Oil-Gas-Corporation-Bankruptcy-Case-Notes-2026-03-10.md`

@@ -22,6 +22,7 @@ alwaysApply: true
 - **禁止使用**：
   - PowerShell 命令（除非系统级必需）
   - Bash/Shell 脚本（除非跨平台兼容性要求）
+  - 通过 `run_terminal_cmd` 调用 Python 进行文件操作
 
 ### 2.2 脚本编写
 
@@ -35,6 +36,11 @@ alwaysApply: true
 - 使用 `requirements.txt` 记录项目依赖
 - 优先使用 Python 标准库，减少外部依赖
 - 如需第三方库，选择稳定、维护良好的库
+
+### 2.4 脚本运行
+
+- 运行 Python 脚本时，优先使用 `python script.py`，以保持跨平台一致
+- Windows 上 `py` 与 `python` 可能指向不同版本，统一使用 `python` 可避免歧义
 
 ## 三、示例
 
@@ -83,7 +89,12 @@ md_files = list(Path("reading/notes").rglob("*.md"))
 4. **长期维护**：Python 生态成熟，社区支持广泛
 5. **代码复用**：Python 脚本易于模块化和复用
 
-## 五、例外情况
+## 五、执行约束（Agent 调用）
+
+- **文件操作**：文件创建、复制、移动、删除、重命名等，**一律使用** Read、Write、StrReplace、Delete、Glob 等内置工具完成；不得通过 `run_terminal_cmd` 调用 Python 做这些操作。
+- **脚本执行**：项目中的 Python 脚本（如 `generate_collections.py`）由 **Agent 运行**；Agent 通过 `run_terminal_cmd` 调用时，在 Windows 上**优先使用 `py`**（如 `py scripts/generate_collections.py`），其次再试 `python`。
+
+## 六、例外情况
 
 仅在以下情况下可使用非 Python 工具：
 
