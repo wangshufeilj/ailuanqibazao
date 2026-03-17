@@ -1,14 +1,11 @@
 ---
 title: 多语言学术文本深度解析：Supercar Blondie - 小米SU7工厂与概览效应
-date: 2026-03-16
 source: Supercar Blondie
+date: 2026-03-16
 authors:
   - Daisy Edwards
   - Claire Reid
-categories:
-  - reading-notes
-  - academic-analysis
-  - multilingual-text-analysis
+category: reading/notes/technology
 tags:
   - 小米SU7
   - 工业旅游
@@ -17,10 +14,7 @@ tags:
   - 航天
   - 科技品牌策略
   - 环境哲学
-topics:
-  - technology
-  - science
-  - psychology
+  - 多语言精读
 ---
 
 # 📘 多语言学术文本深度解析

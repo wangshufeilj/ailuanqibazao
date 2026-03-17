@@ -1,3 +1,19 @@
+---
+title: 2026年全球石油石化行业展望 — 精读笔记
+source: 综合整理（国内/国外能源与石化行业展望）
+date: 2026-03-09
+category: reading/notes/technology
+tags:
+  - 能源转型
+  - 石油石化
+  - 低碳发展
+  - CCUS
+  - 海洋油气
+  - 欧佩克
+  - LNG
+  - 精读笔记
+---
+
 ![1773067069816](image/002-2026-Global-Petroleum-Petrochemical-Industry-Outlook-Notes-2026-03-09/1773067069816.png)# 2026年全球石油石化行业展望 — 精读笔记
 
 **日期：** 2026-03-09  

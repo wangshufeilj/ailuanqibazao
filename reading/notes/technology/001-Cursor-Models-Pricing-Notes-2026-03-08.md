@@ -1,3 +1,19 @@
+---
+title: Models and Pricing (Cursor) — 精读笔记
+source: Cursor Official Documentation / Pricing Page (cursor.com)
+date: 2026-03-08
+category: reading/notes/technology
+tags:
+  - Cursor
+  - 定价
+  - 用量池
+  - OpenAI
+  - Anthropic
+  - Gemini
+  - IDE
+  - 英语精读
+---
+
 # Models and Pricing (Cursor) — 精读笔记
 
 根据您的要求，我已为您整理并完成了 Cursor 官网定价与模型说明页面的全文精读笔记。

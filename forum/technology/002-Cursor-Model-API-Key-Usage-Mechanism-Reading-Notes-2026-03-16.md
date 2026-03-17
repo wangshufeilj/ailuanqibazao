@@ -1,15 +1,20 @@
 ---
 title: Cursor 模型与 API Key 使用机制解析
 source: Cursor 官方论坛 (Forum.cursor.com)
-topic: What changes if I enable my own API key for OpenAI models?
-category: Support / Help
-views: 1.9k
-related_links: 1
 date: 2024-10-20
 created_date: 2026-03-16
-type: reading-notes
-category_path: technology
-tags: [Cursor IDE, API Key, BYOK, Autocomplete, Composer, Rate Limits, OpenAI, Gemini, 技术文档, 论坛精读]
+category: forum/technology
+tags:
+  - Cursor IDE
+  - API Key
+  - BYOK
+  - Autocomplete
+  - Composer
+  - Rate Limits
+  - OpenAI
+  - Gemini
+  - 技术文档
+  - 论坛精读
 ---
 
 # 📑 论坛精读笔记：Cursor 模型与 API Key 使用机制解析
