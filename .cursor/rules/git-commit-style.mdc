@@ -1,0 +1,122 @@
+---
+description: Git 提交信息规范：统一格式、类型映射、示例与拆分策略
+alwaysApply: true
+---
+
+# Git 提交信息规则
+
+## 一、目标
+
+在用户要求执行 `git commit`（或「提交并推送」）时，统一生成清晰、可读、可回溯的提交信息，避免笼统的 `chore: update files` 风格。
+
+## 二、默认格式
+
+默认使用：
+
+`type(scope): summary [YYYY-MM-DD]`
+
+字段说明：
+
+- `type`：改动类型（见第三节）
+- `scope`：改动范围（主题、目录或模块）
+- `summary`：一句话概述本次改动，必须包含具体主题词
+- `[YYYY-MM-DD]`：提交日期，统一方括号格式
+
+## 三、type 取值规范
+
+优先使用以下类型：
+
+- `notes`：阅读笔记、学习笔记、新增/整理笔记
+- `docs`：参考文档、指南、说明文档更新
+- `rules`：`.cursor/rules/` 规则文件新增或修改
+- `fix`：修复错误、修正错误分类、纠正内容问题
+- `refactor`：结构重组、目录重构、命名优化（不改变核心语义）
+- `chore`：无法归入以上类型的杂项（尽量少用）
+
+限制：
+
+1. 同等条件下，优先 `notes` / `docs` / `rules`，避免滥用 `chore`
+2. 不使用空泛 type（如 `update`、`misc`）
+
+## 四、scope 取值建议
+
+按改动主范围选择一个最能代表本次提交的 scope：
+
+- 主题域：`politics`、`technology`、`science`、`education`、`military`
+- 内容域：`reading-notes`、`chinese-documents`、`reference`、`news`
+- 规则域：`classification`、`file-linking`、`python-stack`、`cursor-rules`
+- 仓库域：`repo-structure`、`collections-script`
+
+选择原则：
+
+1. 单一主题改动：用对应主题域（如 `technology`）
+2. 同类跨主题改动：用内容域（如 `reading-notes`）
+3. 规则专改：用规则域（如 `classification`）
+4. 大范围结构调整：用仓库域（如 `repo-structure`）
+
+## 五、summary 写法要求
+
+summary 必须遵守：
+
+1. 说清「做了什么 + 主题是什么」
+2. 使用可检索关键词（如 `hydrogen pilot program`、`Italy-US airbase`）
+3. 避免空话：`update files`、`daily update`、`misc changes`
+
+推荐句式（英文）：
+
+- `add <topic> reading notes`
+- `organize <category> notes and references`
+- `migrate <old-path> to <new-path>`
+- `fix <problem> in <scope>`
+
+推荐句式（中文）：
+
+- `新增<主题>精读笔记`
+- `整理<目录>并补充<主题>资料`
+- `将<旧目录>迁移至<新目录>`
+- `修复<范围>中的<问题>`
+
+## 六、多主题改动处理策略
+
+当一次提交包含多个主题时，按以下顺序处理：
+
+1. **优先拆分提交**：不同类型改动分开提交（如规则修改与笔记新增分离）
+2. **无法拆分时**：选主类型 + 主范围，summary 覆盖 2 个以内核心主题
+3. **仅在确实杂糅时**：使用 `chore`，但 summary 仍要具体
+
+示例（无法拆分时）：
+
+- `notes(reading-notes): add politics and technology notes [2026-03-16]`
+- `rules(cursor-rules): update classification and linking rules [2026-03-16]`
+
+## 七、项目专属示例（推荐）
+
+- `notes(politics): add Italy-US airbase drone attack reading notes [2026-03-16]`
+- `notes(technology): add hydrogen pilot program intensive reading [2026-03-16]`
+- `docs(reference): add national science awards project list [2026-03-16]`
+- `rules(classification): migrate official-documents to chinese-documents [2026-03-16]`
+- `refactor(repo-structure): reorganize chinese document directories [2026-03-16]`
+
+## 八、反例（避免）
+
+- `chore: update classification rules and add new notes`
+- `chore: update files`
+- `misc: daily update`
+- `docs: changes`
+
+问题：
+
+1. 缺少 scope 或 scope 过于模糊
+2. summary 无主题词，后期难以检索
+3. 改动类型信息不足，不利于日志阅读
+
+## 九、执行要求（Agent）
+
+当用户发出「提交」「同步 GitHub」「commit and push」等指令时：
+
+1. 先分析本次变更主类型与主范围
+2. 按本规则生成 commit message
+3. 若用户已明确指定 message，以用户指定为准
+4. 若检测到 message 过于笼统，先给出 1 条更具体的候选再提交
+
+默认优先生成英文提交信息；若用户明确要求中文提交信息，可切换为中文 summary，但格式仍保持 `type(scope): summary [YYYY-MM-DD]`。
