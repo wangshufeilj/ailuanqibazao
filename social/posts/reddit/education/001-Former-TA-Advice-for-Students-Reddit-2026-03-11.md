@@ -3,7 +3,8 @@ title: What I wish students know as a former TA
 source: Reddit r/college
 date: 2026-03-11
 type: social media post
-category: education
+platform: reddit
+category: social/posts/reddit/education
 ---
 ### 📄 精读笔记：作为前助教，我希望学生们了解的事
 **来源：** Reddit (r/college)

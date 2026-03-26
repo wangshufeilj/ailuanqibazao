@@ -3,7 +3,8 @@ title: I think the best thing I've ever done for myself was coming to college as
 source: Reddit r/college
 date: 2026-03-11
 type: social media post
-category: education
+platform: reddit
+category: social/posts/reddit/education
 ---
 # 📝 精读笔记：大龄重返校园的收获与感悟
 

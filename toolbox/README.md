@@ -44,5 +44,5 @@ Agent 会把该文件当作执行清单，按阶段做。
 ## 使用说明
 
 1. 打开对应 `workflows/*.md`，按**阶段**执行。  
-2. 涉及网页抓取时，项目默认优先 **Jina MCP**（见 `.cursor/rules/jina-mcp-default-strategy.mdc`）。  
+2. 涉及网页抓取时，按任务需求选择可用抓取方案。  
 3. 涉及入库路径与命名时，遵循 **file-classification**（见 `.cursor/rules/file-classification.mdc`）。
