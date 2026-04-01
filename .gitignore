@@ -12,6 +12,10 @@
 *.wav
 *.m4a
 
+# Python 缓存
+__pycache__/
+*.pyc
+
 # 系统与 IDE（可选）
 .DS_Store
 Thumbs.db

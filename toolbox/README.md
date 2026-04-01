@@ -8,6 +8,8 @@
 | 文档 | 适用场景 |
 |------|----------|
 | [从 URL 存档英文长文：抓取 → 排版 → 加粗 → 炫彩 HTML](workflows/archive-format-color-english-article-from-url.md) | 外站长文、SiliconSnark 类博客；需要本地精读存档 + 可选炫彩预览 |
+| [给 Markdown 某几行或整段套上护眼炫彩字体](workflows/apply-eye-friendly-gradient-text.md) | 已有 Markdown 文件；想把几行句子或整段内容做成“字体炫彩、背景不变、优先清晰度”的局部高亮 |
+| [全文三语对照 + 30%关键词动态炫彩（白底护眼）](workflows/full-trilingual-keyword-rainbow-on-white.md) | 官方实录/长新闻的全文三语对照；要求“整行可读 + 仅关键词动态炫彩 + 白底护眼”，并可控炫彩密度（30%/35%） |
 
 ## 快速调用（推荐）
 
@@ -32,6 +34,39 @@ Agent 会把该文件当作执行清单，按阶段做。
 - 文章 URL：粘贴这里
 - 炫彩 HTML：要 / 不要
 - 精读笔记：要另写 / 已有文件只互链 / 本次不做
+```
+
+局部炫彩字体则可复制这段：
+
+```text
+请按 toolbox/workflows/apply-eye-friendly-gradient-text.md 工具执行：
+- 文件：贴相对路径
+- 定位词：贴一句独特文本
+- 模式：连续行数 / 整段直到空行
+- 连续行数：可选，任意 >= 1
+- 配色：readable / soft / vivid
+```
+
+全文三语 + 关键词动态炫彩则可复制这段：
+
+```text
+请按 toolbox/workflows/full-trilingual-keyword-rainbow-on-white.md 执行：
+- 目标：全文三语对照
+- 分类：按内容放正确目录（默认 news/politics）
+- 样式：白底护眼，整行普通字色
+- 炫彩：仅关键词，字本身动态炫彩
+- 密度：20% / 30% / 35%（默认 30%）
+```
+
+如果要黑字 + 字后七彩动态背景（预设B），可用这段：
+
+```text
+请按 toolbox/workflows/full-trilingual-keyword-rainbow-on-white.md 执行：
+- 目标：全文三语对照
+- 分类：按内容放正确目录（默认 news/politics）
+- 样式：白底护眼，整行普通字色
+- 炫彩：仅关键词，黑字+字后七彩动态背景（预设B）
+- 密度：20% / 30% / 35%（默认 30%）
 ```
 
 ### 方式 C：自己记一个短口令（口语）
