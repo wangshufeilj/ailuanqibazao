@@ -33,8 +33,6 @@ tags:
   - 媒体与政治
 ---
 
-![1774095233877](image/028-Two-Fox-Reporters-Congressmen-Engagement-Journalism-Ethics-WaPo-Reading-Notes-2026-03-21/1774095233877.png)
-
 # 文章背景与结构概览 | Article Background & Structure Overview
 
 【文章来源】: The Washington Post (《华盛顿邮报》)

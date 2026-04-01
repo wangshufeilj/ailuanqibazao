@@ -1,4 +1,4 @@
-![1772954725283](image/002-US-Iran-Conflict-WaPo-Notes-2026-03-08/1772954725283.png)# Trump says U.S. to expand Iran targets as Tehran rejects idea of surrender — 精读笔记
+# Trump says U.S. to expand Iran targets as Tehran rejects idea of surrender — 精读笔记
 
 这份精读笔记旨在通过《华盛顿邮报》（The Washington Post）关于美伊局势的深度报道，帮助你积累雅思、考研及翻译考试的高端素材。
 
