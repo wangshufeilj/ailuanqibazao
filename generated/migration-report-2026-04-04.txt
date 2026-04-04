@@ -1,0 +1,413 @@
+旧路径 -> 新路径
+reading\notes\politics\001-Six-Arrested-Explosive-Devices-Mamdani-Home-Notes-2026-03-08.md
+  -> reading\notes\politics\conflict-security\001-Six-Arrested-Explosive-Devices-Mamdani-Home-Notes-2026-03-08.md
+reading\notes\politics\002-US-Iran-Conflict-WaPo-Notes-2026-03-08.md
+  -> reading\notes\politics\conflict-security\002-US-Iran-Conflict-WaPo-Notes-2026-03-08.md
+reading\notes\politics\011-Italy-US-Airbase-Drone-Attack-Business-Recorder-Reading-Notes-2026-03-16.md
+  -> reading\notes\politics\conflict-security\003-Italy-US-Airbase-Drone-Attack-Business-Recorder-Reading-Notes-2026-03-16.md
+reading\notes\politics\015-US-Israeli-Strike-Iran-South-Pars-Refineries-Reading-Notes-2026-03-19.md
+  -> reading\notes\politics\conflict-security\004-US-Israeli-Strike-Iran-South-Pars-Refineries-Reading-Notes-2026-03-19.md
+reading\notes\politics\024-US-F-35-Emergency-Landing-Iran-Fire-CNN-精读笔记-2026-03-20.md
+  -> reading\notes\politics\conflict-security\005-US-F-35-Emergency-Landing-Iran-Fire-CNN-精读笔记-2026-03-20.md
+reading\notes\politics\033-How-Iranian-Air-Defense-Managed-to-Hit-the-American-F-35-Vzglyad-Russian-Reading-Notes-2026-03-22.md
+  -> reading\notes\politics\conflict-security\006-How-Iranian-Air-Defense-Managed-to-Hit-the-American-F-35-Vzglyad-Russian-Reading-Notes-2026-03-22.md
+reading\notes\politics\058-Nigeria-Plateau-State-University-Community-Attack-Clash-Report-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\conflict-security\007-Nigeria-Plateau-State-University-Community-Attack-Clash-Report-Reading-Notes-2026-04-01.md
+reading\notes\politics\062-Somali-Army-Baidoa-South-West-State-Clash-Report-Reading-Notes-2026-03-31.md
+  -> reading\notes\politics\conflict-security\008-Somali-Army-Baidoa-South-West-State-Clash-Report-Reading-Notes-2026-03-31.md
+reading\notes\politics\075-US-Israel-Iran-Military-Operation-Chronicle-March-29-TASS-Russian-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\conflict-security\009-US-Israel-Iran-Military-Operation-Chronicle-March-29-TASS-Russian-Reading-Notes-2026-04-01.md
+reading\notes\politics\077-US-Israel-Iran-One-Month-War-Key-Nodes-Xinhua-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\conflict-security\010-US-Israel-Iran-One-Month-War-Key-Nodes-Xinhua-Reading-Notes-2026-04-01.md
+reading\notes\politics\086-US-E3-Sentry-AWACS-Destroyed-Saudi-Arabia-CNN-Reading-Notes-2026-04-04.md
+  -> reading\notes\politics\conflict-security\011-US-E3-Sentry-AWACS-Destroyed-Saudi-Arabia-CNN-Reading-Notes-2026-04-04.md
+reading\notes\politics\003-US-Gulf-Bases-Hungary-Ukraine-RT-Notes-2026-03-08.md
+  -> reading\notes\politics\geo-politics\001-US-Gulf-Bases-Hungary-Ukraine-RT-Notes-2026-03-08.md
+reading\notes\politics\005-US-Gulf-Bases-Hungary-Ukraine-Draft-Part1-2026-03-08.md
+  -> reading\notes\politics\geo-politics\002-US-Gulf-Bases-Hungary-Ukraine-Draft-Part1-2026-03-08.md
+reading\notes\politics\006-US-Gulf-Bases-Hungary-Ukraine-Draft-Part2-2026-03-08.md
+  -> reading\notes\politics\geo-politics\003-US-Gulf-Bases-Hungary-Ukraine-Draft-Part2-2026-03-08.md
+reading\notes\politics\016-辛亥革命与台湾的历史观照-精读笔记-2026-03-19.md
+  -> reading\notes\politics\geo-politics\004-辛亥革命与台湾的历史观照-精读笔记-2026-03-19.md
+reading\notes\politics\018-第二轮土地承包到期后再延长30年试点工作意见-精读笔记-2026-03-19.md
+  -> reading\notes\politics\geo-politics\005-第二轮土地承包到期后再延长30年试点工作意见-精读笔记-2026-03-19.md
+reading\notes\politics\019-中美巴黎经贸会谈稳定贸易关系惠及两国-深圳日报精读笔记-2026-03-19.md
+  -> reading\notes\politics\geo-politics\006-中美巴黎经贸会谈稳定贸易关系惠及两国-深圳日报精读笔记-2026-03-19.md
+reading\notes\politics\029-Iran-Barbarian-Invasion-Cultural-Heritage-Manchuk-Vzglyad-Russian-Reading-Notes-2026-03-22.md
+  -> reading\notes\politics\geo-politics\007-Iran-Barbarian-Invasion-Cultural-Heritage-Manchuk-Vzglyad-Russian-Reading-Notes-2026-03-22.md
+reading\notes\politics\030-US-Names-Five-Countries-Posing-Security-Threats-Vzglyad-Russian-Reading-Notes-2026-03-22.md
+  -> reading\notes\politics\geo-politics\008-US-Names-Five-Countries-Posing-Security-Threats-Vzglyad-Russian-Reading-Notes-2026-03-22.md
+reading\notes\politics\035-Closed-Border-with-Finland-Enriches-Russia-Vzglyad-Russian-Reading-Notes-2026-03-23.md
+  -> reading\notes\politics\geo-politics\009-Closed-Border-with-Finland-Enriches-Russia-Vzglyad-Russian-Reading-Notes-2026-03-23.md
+reading\notes\politics\038-China-More-Dependable-Partner-Western-Polls-China-Daily-IELTS-Reading-Notes-2026-03-25.md
+  -> reading\notes\politics\geo-politics\010-China-More-Dependable-Partner-Western-Polls-China-Daily-IELTS-Reading-Notes-2026-03-25.md
+reading\notes\politics\039-Heixiazi-Island-Checkpoint-2026-EastRussia-Russian-IELTS-Reading-Notes-2026-03-25.md
+  -> reading\notes\politics\geo-politics\011-Heixiazi-Island-Checkpoint-2026-EastRussia-Russian-IELTS-Reading-Notes-2026-03-25.md
+reading\notes\politics\056-US-Busy-Iran-War-China-DRC-Minerals-Clash-Report-Reading-Notes-2026-03-30.md
+  -> reading\notes\politics\geo-politics\012-US-Busy-Iran-War-China-DRC-Minerals-Clash-Report-Reading-Notes-2026-03-30.md
+reading\notes\politics\069-US-Embassies-Counter-Hostile-Propaganda-X-Psy-Ops-Guardian-Moneycontrol-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\geo-politics\013-US-Embassies-Counter-Hostile-Propaganda-X-Psy-Ops-Guardian-Moneycontrol-Reading-Notes-2026-04-01.md
+reading\notes\politics\071-Egypt-Europe-Gulf-RoRo-Damietta-Transit-Trade-Ahram-Online-Reading-Notes-2026-03-31.md
+  -> reading\notes\politics\geo-politics\014-Egypt-Europe-Gulf-RoRo-Damietta-Transit-Trade-Ahram-Online-Reading-Notes-2026-03-31.md
+reading\notes\politics\078-Russia-Eastern-Polygon-BAM-Trans-Siberian-EastRussia-Reading-Notes-2026-04-02.md
+  -> reading\notes\politics\geo-politics\015-Russia-Eastern-Polygon-BAM-Trans-Siberian-EastRussia-Reading-Notes-2026-04-02.md
+reading\notes\politics\079-Japan-Long-Range-Missile-Deployment-Protests-People-Daily-Japanese-Reading-Notes-2026-04-02.md
+  -> reading\notes\politics\geo-politics\016-Japan-Long-Range-Missile-Deployment-Protests-People-Daily-Japanese-Reading-Notes-2026-04-02.md
+reading\notes\politics\080-Taiwan-Oil-Shortage-TAO-Peaceful-Unification-Energy-People-Daily-Japanese-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\geo-politics\017-Taiwan-Oil-Shortage-TAO-Peaceful-Unification-Energy-People-Daily-Japanese-Reading-Notes-2026-04-01.md
+reading\notes\politics\083-Persistent-Yen-Depreciation-Japan-Economy-People-Daily-Japanese-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\geo-politics\018-Persistent-Yen-Depreciation-Japan-Economy-People-Daily-Japanese-Reading-Notes-2026-04-01.md
+reading\notes\politics\085-NSR-Year-Round-Navigation-EastRussia-Pavel-Usov-Reading-Notes-2026-04-03.md
+  -> reading\notes\politics\geo-politics\019-NSR-Year-Round-Navigation-EastRussia-Pavel-Usov-Reading-Notes-2026-04-03.md
+reading\notes\politics\004-Russian-Defense-Ministry-Official-Graft-Case-RT-2026-03-08.md
+  -> reading\notes\politics\domestic-policy\001-Russian-Defense-Ministry-Official-Graft-Case-RT-2026-03-08.md
+reading\notes\politics\007-Trump-Florsheim-Shoe-Company-Lawsuit-Notes-2026-03-11.md
+  -> reading\notes\politics\domestic-policy\002-Trump-Florsheim-Shoe-Company-Lawsuit-Notes-2026-03-11.md
+reading\notes\politics\008-Trump-Florsheim-Shoes-Gift-English-Reading-Notes-2026-03-12.md
+  -> reading\notes\politics\domestic-policy\003-Trump-Florsheim-Shoes-Gift-English-Reading-Notes-2026-03-12.md
+reading\notes\politics\009-Osaka-Steel-Pipe-Uplift-Engineering-Accident-English-Reading-Notes-2026-03-12.md
+  -> reading\notes\politics\domestic-policy\004-Osaka-Steel-Pipe-Uplift-Engineering-Accident-English-Reading-Notes-2026-03-12.md
+reading\notes\politics\010-GOP-Georgia-Special-Election-MTG-Reading-Notes-2026-03-12.md
+  -> reading\notes\politics\domestic-policy\005-GOP-Georgia-Special-Election-MTG-Reading-Notes-2026-03-12.md
+reading\notes\politics\012-Quarry-Boss-Danny-Guerra-SoE-Reading-Notes-2026-03-16.md
+  -> reading\notes\politics\domestic-policy\006-Quarry-Boss-Danny-Guerra-SoE-Reading-Notes-2026-03-16.md
+reading\notes\politics\014-Joseph-Kent-NCTC-Resignation-Letter-Bilingual-Reading-Notes-2026-03-17.md
+  -> reading\notes\politics\domestic-policy\007-Joseph-Kent-NCTC-Resignation-Letter-Bilingual-Reading-Notes-2026-03-17.md
+reading\notes\politics\017-胸怀天下青春作答北大留学生亮相CGTN-精读笔记-2026-03-19.md
+  -> reading\notes\politics\domestic-policy\008-胸怀天下青春作答北大留学生亮相CGTN-精读笔记-2026-03-19.md
+reading\notes\politics\020-中国政府规范南海诸岛名称-南部战区精读笔记-2026-03-19.md
+  -> reading\notes\politics\domestic-policy\009-中国政府规范南海诸岛名称-南部战区精读笔记-2026-03-19.md
+reading\notes\politics\022-浙江省委常委会会议精读笔记-今日浙江-2026-03-19.md
+  -> reading\notes\politics\domestic-policy\010-浙江省委常委会会议精读笔记-今日浙江-2026-03-19.md
+reading\notes\politics\023-政绩观问题是一个根本性问题-求是精读笔记-2026-03-19.md
+  -> reading\notes\politics\domestic-policy\011-政绩观问题是一个根本性问题-求是精读笔记-2026-03-19.md
+reading\notes\politics\025-US-refinery-fire-incidents-2025-Reuters-Reading-Notes-2026-03-21.md
+  -> reading\notes\politics\domestic-policy\012-US-refinery-fire-incidents-2025-Reuters-Reading-Notes-2026-03-21.md
+reading\notes\politics\026-中国担任上海合作组织2024-2025年轮值主席国工作成果清单-新华网精读笔记-2026-03-21.md
+  -> reading\notes\politics\domestic-policy\013-中国担任上海合作组织2024-2025年轮值主席国工作成果清单-新华网精读笔记-2026-03-21.md
+reading\notes\politics\027-China-Investing-in-People-Demand-Led-Growth-Xinhua-Reading-Notes-2026-03-21.md
+  -> reading\notes\politics\domestic-policy\014-China-Investing-in-People-Demand-Led-Growth-Xinhua-Reading-Notes-2026-03-21.md
+reading\notes\politics\028-Two-Fox-Reporters-Congressmen-Engagement-Journalism-Ethics-WaPo-Reading-Notes-2026-03-21.md
+  -> reading\notes\politics\domestic-policy\015-Two-Fox-Reporters-Congressmen-Engagement-Journalism-Ethics-WaPo-Reading-Notes-2026-03-21.md
+reading\notes\politics\032-Cockroaches-Will-Be-Watching-Us-Vzglyad-Russian-Reading-Notes-2026-03-22.md
+  -> reading\notes\politics\domestic-policy\016-Cockroaches-Will-Be-Watching-Us-Vzglyad-Russian-Reading-Notes-2026-03-22.md
+reading\notes\politics\034-Novosibirsk-Heating-Network-Accident-SGK-Vzglyad-Russian-Reading-Notes-2026-03-22.md
+  -> reading\notes\politics\domestic-policy\017-Novosibirsk-Heating-Network-Accident-SGK-Vzglyad-Russian-Reading-Notes-2026-03-22.md
+reading\notes\politics\036-Davignon-Lumumba-Belgium-Trial-Vzglyad-Russian-Reading-Notes-2026-03-24.md
+  -> reading\notes\politics\domestic-policy\018-Davignon-Lumumba-Belgium-Trial-Vzglyad-Russian-Reading-Notes-2026-03-24.md
+reading\notes\politics\041-KPRF-Udmurt-Ionov-Obituary-Socialist-Labor-Hero-Russian-IELTS-Reading-Notes-2026-03-25.md
+  -> reading\notes\politics\domestic-policy\019-KPRF-Udmurt-Ionov-Obituary-Socialist-Labor-Hero-Russian-IELTS-Reading-Notes-2026-03-25.md
+reading\notes\politics\042-Kucharov-Namaz-Hero-Socialist-Labor-Warheroes-Uzbek-Russian-IELTS-Reading-Notes-2026-03-25.md
+  -> reading\notes\politics\domestic-policy\020-Kucharov-Namaz-Hero-Socialist-Labor-Warheroes-Uzbek-Russian-IELTS-Reading-Notes-2026-03-25.md
+reading\notes\politics\043-Trump-Conqueror-of-Iran-or-Adrenaline-Fueled-Politician-What-His-Facial-Expressions-Reveal-2026-03-27.md
+  -> reading\notes\politics\domestic-policy\021-Trump-Conqueror-of-Iran-or-Adrenaline-Fueled-Politician-What-His-Facial-Expressions-Reveal-2026-03-27.md
+reading\notes\politics\044-Trump-Mental-Health-Debate-El-Pais-Spanish-Reading-Notes-2026-03-23.md
+  -> reading\notes\politics\domestic-policy\022-Trump-Mental-Health-Debate-El-Pais-Spanish-Reading-Notes-2026-03-23.md
+reading\notes\politics\045-Trump-Second-Term-Speech-Patterns-NYT-Upshot-Reading-Notes-2026-03-27.md
+  -> reading\notes\politics\domestic-policy\023-Trump-Second-Term-Speech-Patterns-NYT-Upshot-Reading-Notes-2026-03-27.md
+reading\notes\politics\046-Health-Competence-Trump-Predecessors-Conversation-Pruessen-Reading-Notes-2026-03-27.md
+  -> reading\notes\politics\domestic-policy\024-Health-Competence-Trump-Predecessors-Conversation-Pruessen-Reading-Notes-2026-03-27.md
+reading\notes\politics\047-Most-Say-Trump-Becoming-More-Erratic-Survey-The-Hill-Reading-Notes-2026-03-27.md
+  -> reading\notes\politics\domestic-policy\025-Most-Say-Trump-Becoming-More-Erratic-Survey-The-Hill-Reading-Notes-2026-03-27.md
+reading\notes\politics\048-Trump-Regime-Psychiatric-Not-Political-MindSite-News-Reading-Notes-2026-03-27.md
+  -> reading\notes\politics\domestic-policy\026-Trump-Regime-Psychiatric-Not-Political-MindSite-News-Reading-Notes-2026-03-27.md
+reading\notes\politics\049-Putin-National-Guard-Day-Video-Address-Reading-Notes-2026-03-27.md
+  -> reading\notes\politics\domestic-policy\027-Putin-National-Guard-Day-Video-Address-Reading-Notes-2026-03-27.md
+reading\notes\politics\050-Trump-New-Science-Panel-PCAST-Billionaires-ScienceInsider-Reading-Notes-2026-03-27.md
+  -> reading\notes\politics\domestic-policy\028-Trump-New-Science-Panel-PCAST-Billionaires-ScienceInsider-Reading-Notes-2026-03-27.md
+reading\notes\politics\051-Trump-Signature-on-US-100-Dollar-Bill-Al-Arabiya-Arabic-Reading-Notes-2026-03-27.md
+  -> reading\notes\politics\domestic-policy\029-Trump-Signature-on-US-100-Dollar-Bill-Al-Arabiya-Arabic-Reading-Notes-2026-03-27.md
+reading\notes\politics\053-Zhambyl-Presidential-Residence-Governor-Tengrinews-Reading-Notes-2026-03-30.md
+  -> reading\notes\politics\domestic-policy\030-Zhambyl-Presidential-Residence-Governor-Tengrinews-Reading-Notes-2026-03-30.md
+reading\notes\politics\054-Rubio-State-Department-Restructuring-Phase-1-CNN-Japan-Reading-Notes-2026-03-31.md
+  -> reading\notes\politics\domestic-policy\031-Rubio-State-Department-Restructuring-Phase-1-CNN-Japan-Reading-Notes-2026-03-31.md
+reading\notes\politics\059-Army-Reaffirms-Ban-Unauthorised-Military-Camouflage-THISDAY-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\domestic-policy\032-Army-Reaffirms-Ban-Unauthorised-Military-Camouflage-THISDAY-Reading-Notes-2026-04-01.md
+reading\notes\politics\060-Nigeria-ONSA-Camouflage-Uniform-Proliferation-Interior-NCS-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\domestic-policy\033-Nigeria-ONSA-Camouflage-Uniform-Proliferation-Interior-NCS-Reading-Notes-2026-04-01.md
+reading\notes\politics\061-Nigeria-MoD-Matawalle-Reaffirms-Ban-Unauthorized-Camouflage-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\domestic-policy\034-Nigeria-MoD-Matawalle-Reaffirms-Ban-Unauthorized-Camouflage-Reading-Notes-2026-04-01.md
+reading\notes\politics\064-Russia-Hotel-Check-In-Driver-License-Biometrics-TASS-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\domestic-policy\035-Russia-Hotel-Check-In-Driver-License-Biometrics-TASS-Reading-Notes-2026-04-01.md
+reading\notes\politics\070-CBE-Remote-Work-Egyptian-Banks-April-Ahram-Online-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\domestic-policy\036-CBE-Remote-Work-Egyptian-Banks-April-Ahram-Online-Reading-Notes-2026-04-01.md
+reading\notes\politics\072-Egypt-Ashraf-Zaher-Defense-Minister-Egypt-Today-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\domestic-policy\037-Egypt-Ashraf-Zaher-Defense-Minister-Egypt-Today-Reading-Notes-2026-04-01.md
+reading\notes\politics\013-秘密外交与萨道义外交实践指南版本演变-阅读笔记-2026-03-16.md
+  -> reading\notes\politics\diplomacy\001-秘密外交与萨道义外交实践指南版本演变-阅读笔记-2026-03-16.md
+reading\notes\politics\021-中越外交国防公安3加3战略对话机制首次部长级会议-精读笔记-2026-03-19.md
+  -> reading\notes\politics\diplomacy\002-中越外交国防公安3加3战略对话机制首次部长级会议-精读笔记-2026-03-19.md
+reading\notes\politics\031-Takaichi-US-Dinner-Photo-Sparked-Rage-in-Japan-Vzglyad-Russian-Reading-Notes-2026-03-22.md
+  -> reading\notes\politics\diplomacy\003-Takaichi-US-Dinner-Photo-Sparked-Rage-in-Japan-Vzglyad-Russian-Reading-Notes-2026-03-22.md
+reading\notes\politics\037-Li-highlights-fair-trade-CDF-2026-China-Daily-IELTS-Reading-Notes-2026-03-24.md
+  -> reading\notes\politics\diplomacy\004-Li-highlights-fair-trade-CDF-2026-China-Daily-IELTS-Reading-Notes-2026-03-24.md
+reading\notes\politics\040-KPRF-Delegation-Soong-Residence-CPC-History-Museum-Beijing-IELTS-Reading-Notes-2026-03-25.md
+  -> reading\notes\politics\diplomacy\005-KPRF-Delegation-Soong-Residence-CPC-History-Museum-Beijing-IELTS-Reading-Notes-2026-03-25.md
+reading\notes\politics\055-Iran-Pezeshkian-EU-Costa-Phone-War-Diplomacy-IRNA-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\diplomacy\006-Iran-Pezeshkian-EU-Costa-Phone-War-Diplomacy-IRNA-Reading-Notes-2026-04-01.md
+reading\notes\politics\057-Israel-Stops-Security-Purchases-France-Hostile-Lebanon-Shift-Clash-Report-Reading-Notes-2026-03-31.md
+  -> reading\notes\politics\diplomacy\007-Israel-Stops-Security-Purchases-France-Hostile-Lebanon-Shift-Clash-Report-Reading-Notes-2026-03-31.md
+reading\notes\politics\073-Turkey-Egypt-Military-Framework-BBC-Turkce-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\diplomacy\008-Turkey-Egypt-Military-Framework-BBC-Turkce-Reading-Notes-2026-04-01.md
+reading\notes\politics\081-Wang-Yi-Dar-Pakistan-China-Five-Point-Initiative-Gulf-Middle-East-People-Daily-Japanese-Reading-Notes-2026-04-02.md
+  -> reading\notes\politics\diplomacy\009-Wang-Yi-Dar-Pakistan-China-Five-Point-Initiative-Gulf-Middle-East-People-Daily-Japanese-Reading-Notes-2026-04-02.md
+reading\notes\politics\082-SDF-Officer-Chinese-Embassy-Intrusion-Mao-Ning-People-Daily-Japanese-Reading-Notes-2026-04-02.md
+  -> reading\notes\politics\diplomacy\010-SDF-Officer-Chinese-Embassy-Intrusion-Mao-Ning-People-Daily-Japanese-Reading-Notes-2026-04-02.md
+reading\notes\politics\084-Pezeshkian-Open-Letter-US-People-English-Reading-Notes-2026-04-02.md
+  -> reading\notes\politics\diplomacy\011-Pezeshkian-Open-Letter-US-People-English-Reading-Notes-2026-04-02.md
+reading\notes\politics\052-Russia-Presidential-Decree-193-Cash-Gold-Export-EAEU-Russian-IELTS-Reading-Notes-2026-03-29.md
+  -> reading\notes\politics\energy-sanctions\001-Russia-Presidential-Decree-193-Cash-Gold-Export-EAEU-Russian-IELTS-Reading-Notes-2026-03-29.md
+reading\notes\politics\063-Russian-Oil-Tanker-Anatoly-Kolodkin-Matanzas-Cuba-VnExpress-AFP-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\energy-sanctions\002-Russian-Oil-Tanker-Anatoly-Kolodkin-Matanzas-Cuba-VnExpress-AFP-Reading-Notes-2026-04-01.md
+reading\notes\politics\065-Russia-Oil-Tanker-Cuba-RT-Arabic-Vzglyad-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\energy-sanctions\003-Russia-Oil-Tanker-Cuba-RT-Arabic-Vzglyad-Reading-Notes-2026-04-01.md
+reading\notes\politics\066-Russian-Tanker-Anatoly-Kolodkin-Cuba-Le-Monde-AFP-French-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\energy-sanctions\004-Russian-Tanker-Anatoly-Kolodkin-Cuba-Le-Monde-AFP-French-Reading-Notes-2026-04-01.md
+reading\notes\politics\067-Russian-Oil-Tanker-Cuba-US-Embargo-Maritime-Executive-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\energy-sanctions\005-Russian-Oil-Tanker-Cuba-US-Embargo-Maritime-Executive-Reading-Notes-2026-04-01.md
+reading\notes\politics\068-Russian-Oil-Tanker-Matanzas-Cuba-Reuters-Ayose-Naranjo-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\energy-sanctions\006-Russian-Oil-Tanker-Matanzas-Cuba-Reuters-Ayose-Naranjo-Reading-Notes-2026-04-01.md
+reading\notes\politics\074-Hungary-Ukraine-Gas-Suspend-Druzhba-TASS-Russian-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\energy-sanctions\007-Hungary-Ukraine-Gas-Suspend-Druzhba-TASS-Russian-Reading-Notes-2026-04-01.md
+reading\notes\politics\076-Russia-Gasoline-Export-Ban-March-July-2026-Attaqa-Arabic-Reading-Notes-2026-04-01.md
+  -> reading\notes\politics\energy-sanctions\008-Russia-Gasoline-Export-Ban-March-July-2026-Attaqa-Arabic-Reading-Notes-2026-04-01.md
+reading\notes\technology\001-Cursor-Models-Pricing-Notes-2026-03-08.md
+  -> reading\notes\technology\ai-digital\001-Cursor-Models-Pricing-Notes-2026-03-08.md
+reading\notes\technology\015-State-of-Reasoning-LLMs-The-New-Era-of-Thinking-Machines-Reading-Notes-2026-03-17.md
+  -> reading\notes\technology\ai-digital\002-State-of-Reasoning-LLMs-The-New-Era-of-Thinking-Machines-Reading-Notes-2026-03-17.md
+reading\notes\technology\016-Reasoning-LLMs-Glossary-Key-Terms-Reading-Notes-2026-03-17.md
+  -> reading\notes\technology\ai-digital\003-Reasoning-LLMs-Glossary-Key-Terms-Reading-Notes-2026-03-17.md
+reading\notes\technology\017-Reasoning-Optimized-LLMs-Survey-Reading-Notes-2026-03-17.md
+  -> reading\notes\technology\ai-digital\004-Reasoning-Optimized-LLMs-Survey-Reading-Notes-2026-03-17.md
+reading\notes\technology\018-知识图谱-非推理模型与推理模型之对比-Reading-Notes-2026-03-17.md
+  -> reading\notes\technology\ai-digital\005-知识图谱-非推理模型与推理模型之对比-Reading-Notes-2026-03-17.md
+reading\notes\technology\019-Jina-AI-30M-Series-A-Neural-Search-TechCrunch-Reading-Notes-2026-03-19.md
+  -> reading\notes\technology\ai-digital\006-Jina-AI-30M-Series-A-Neural-Search-TechCrunch-Reading-Notes-2026-03-19.md
+reading\notes\technology\020-Jina-AI-创业复盘-AI团队Scaling-Law-张飒肖涵访谈-2026-03-19.md
+  -> reading\notes\technology\ai-digital\007-Jina-AI-创业复盘-AI团队Scaling-Law-张飒肖涵访谈-2026-03-19.md
+reading\notes\technology\022-China-Tech-Trial-Space-Computing-OpenClaw-Humanoid-Robot-Xinhua-精读笔记-2026-03-19.md
+  -> reading\notes\technology\ai-digital\008-China-Tech-Trial-Space-Computing-OpenClaw-Humanoid-Robot-Xinhua-精读笔记-2026-03-19.md
+reading\notes\technology\025-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-Reading-Notes-2026-03-20.md
+  -> reading\notes\technology\ai-digital\009-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-Reading-Notes-2026-03-20.md
+reading\notes\technology\026-2000s-Tech-Marketing-Buzzwords-Early-Late-IELTS-Reading-Notes-2026-03-20.md
+  -> reading\notes\technology\ai-digital\010-2000s-Tech-Marketing-Buzzwords-Early-Late-IELTS-Reading-Notes-2026-03-20.md
+reading\notes\technology\027-Early-Mid-2010s-Disruption-IoT-Digital-Transformation-Reading-Notes-2026-03-20.md
+  -> reading\notes\technology\ai-digital\011-Early-Mid-2010s-Disruption-IoT-Digital-Transformation-Reading-Notes-2026-03-20.md
+reading\notes\technology\028-Late-2010s-to-2020s-Blockchain-Metaverse-AI-Buzzwords-Reading-Notes-2026-03-20.md
+  -> reading\notes\technology\ai-digital\012-Late-2010s-to-2020s-Blockchain-Metaverse-AI-Buzzwords-Reading-Notes-2026-03-20.md
+reading\notes\technology\030-NYT-10-Tech-Jargon-Confused-Us-2025-Tech-Fix-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\ai-digital\013-NYT-10-Tech-Jargon-Confused-Us-2025-Tech-Fix-Reading-Notes-2026-03-21.md
+reading\notes\technology\031-How-to-speak-Silicon-Valley-53-Essential-Tech-Bro-Terms-The-Guardian-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\ai-digital\014-How-to-speak-Silicon-Valley-53-Essential-Tech-Bro-Terms-The-Guardian-Reading-Notes-2026-03-21.md
+reading\notes\technology\034-Markdownify-MCP-Skills-Claude-ChatGPT-Codex-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\ai-digital\015-Markdownify-MCP-Skills-Claude-ChatGPT-Codex-Reading-Notes-2026-03-21.md
+reading\notes\technology\040-Cursor-Composer-2-Kimi-K2.5-In-House-Third-Party-kkm-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\ai-digital\016-Cursor-Composer-2-Kimi-K2.5-In-House-Third-Party-kkm-Reading-Notes-2026-03-21.md
+reading\notes\technology\041-Composer-Building-Fast-Frontier-Model-RL-HN-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\ai-digital\017-Composer-Building-Fast-Frontier-Model-RL-HN-Reading-Notes-2026-03-21.md
+reading\notes\technology\042-Introduction-to-Frontend-Development-The-New-Stack-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\ai-digital\018-Introduction-to-Frontend-Development-The-New-Stack-Reading-Notes-2026-03-21.md
+reading\notes\technology\043-Reddit-Sues-Perplexity-Industrial-Scale-Scraping-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\ai-digital\019-Reddit-Sues-Perplexity-Industrial-Scale-Scraping-Reading-Notes-2026-03-21.md
+reading\notes\technology\044-Cloudflare-416-Billion-AI-Bot-Requests-WIRED-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\ai-digital\020-Cloudflare-416-Billion-AI-Bot-Requests-WIRED-Reading-Notes-2026-03-21.md
+reading\notes\technology\045-Cloudflare-Permission-Based-AI-Crawlers-Press-Release-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\ai-digital\021-Cloudflare-Permission-Based-AI-Crawlers-Press-Release-Reading-Notes-2026-03-21.md
+reading\notes\technology\048-How-AI-Is-Reshaping-Chinas-Manufacturing-Landscape-Xinhua-Reading-Notes-2026-03-25.md
+  -> reading\notes\technology\ai-digital\022-How-AI-Is-Reshaping-Chinas-Manufacturing-Landscape-Xinhua-Reading-Notes-2026-03-25.md
+reading\notes\technology\049-AI-Boom-Value-Anchor-China-Daily-Token-140-Trillion-Xinhua-CCTV-Reading-Notes-2026-03-25.md
+  -> reading\notes\technology\ai-digital\023-AI-Boom-Value-Anchor-China-Daily-Token-140-Trillion-Xinhua-CCTV-Reading-Notes-2026-03-25.md
+reading\notes\technology\051-Xinhua-Seedance-2-Hollywood-Global-Insights-Reading-Notes-2026-03-25.md
+  -> reading\notes\technology\ai-digital\024-Xinhua-Seedance-2-Hollywood-Global-Insights-Reading-Notes-2026-03-25.md
+reading\notes\technology\002-2026-Global-Petroleum-Petrochemical-Industry-Outlook-Notes-2026-03-09.md
+  -> reading\notes\technology\industry-policy\001-2026-Global-Petroleum-Petrochemical-Industry-Outlook-Notes-2026-03-09.md
+reading\notes\technology\003-China-Sci-Tech-Innovation-Global-Influence-Reading-Notes-2026-03-12.md
+  -> reading\notes\technology\industry-policy\002-China-Sci-Tech-Innovation-Global-Influence-Reading-Notes-2026-03-12.md
+reading\notes\technology\004-向新-科技创新展现硬核实力-精读笔记-2026-03-15.md
+  -> reading\notes\technology\industry-policy\003-向新-科技创新展现硬核实力-精读笔记-2026-03-15.md
+reading\notes\technology\005-破立并举激活创新第一资源-精读笔记-2026-03-15.md
+  -> reading\notes\technology\industry-policy\004-破立并举激活创新第一资源-精读笔记-2026-03-15.md
+reading\notes\technology\006-科技自立自强进阶高水平-精读笔记-2026-03-15.md
+  -> reading\notes\technology\industry-policy\005-科技自立自强进阶高水平-精读笔记-2026-03-15.md
+reading\notes\technology\007-李建宇代表-落子三竹科技意在加码线缆产业链布局-精读笔记-2026-03-16.md
+  -> reading\notes\technology\industry-policy\006-李建宇代表-落子三竹科技意在加码线缆产业链布局-精读笔记-2026-03-16.md
+reading\notes\technology\008-创新实干-钢铁新质生产力硬核进阶-精读笔记-2026-03-16.md
+  -> reading\notes\technology\industry-policy\007-创新实干-钢铁新质生产力硬核进阶-精读笔记-2026-03-16.md
+reading\notes\technology\011-涉汽车工业等多领域-我国启动氢能综合应用试点-精读笔记-2026-03-16.md
+  -> reading\notes\technology\industry-policy\008-涉汽车工业等多领域-我国启动氢能综合应用试点-精读笔记-2026-03-16.md
+reading\notes\technology\014-北航2019年度国家科技奖励-精读笔记-2026-03-17.md
+  -> reading\notes\technology\industry-policy\009-北航2019年度国家科技奖励-精读笔记-2026-03-17.md
+reading\notes\technology\021-WSJ-Tech-Industry-Huge-Europe-Share-Very-Small-IELTS-Reading-Notes-2026-03-19.md
+  -> reading\notes\technology\industry-policy\010-WSJ-Tech-Industry-Huge-Europe-Share-Very-Small-IELTS-Reading-Notes-2026-03-19.md
+reading\notes\technology\023-极视角-递表仅59天-通过港交所聆讯-精读笔记-2026-03-19.md
+  -> reading\notes\technology\industry-policy\011-极视角-递表仅59天-通过港交所聆讯-精读笔记-2026-03-19.md
+reading\notes\technology\024-清华大学500亩医学园区海淀校地合作-精读笔记-2026-03-19.md
+  -> reading\notes\technology\industry-policy\012-清华大学500亩医学园区海淀校地合作-精读笔记-2026-03-19.md
+reading\notes\technology\039-Explore-Top-Tech-Companies-Top-California-Manufacturing-Companies-221-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\industry-policy\013-Explore-Top-Tech-Companies-Top-California-Manufacturing-Companies-221-Reading-Notes-2026-03-21.md
+reading\notes\technology\046-CBS-News-Radio-Shuttering-After-100-Years-Reading-Notes-2026-03-24.md
+  -> reading\notes\technology\industry-policy\014-CBS-News-Radio-Shuttering-After-100-Years-Reading-Notes-2026-03-24.md
+reading\notes\technology\050-Blagoveshchensk-Three-Gas-Boiler-Houses-Amur-Region-IELTS-Reading-Notes-2026-03-25.md
+  -> reading\notes\technology\industry-policy\015-Blagoveshchensk-Three-Gas-Boiler-Houses-Amur-Region-IELTS-Reading-Notes-2026-03-25.md
+reading\notes\technology\052-Laser-Die-Cutting-Bakers-Dozen-Publish-IELTS-Reading-Notes-2026-03-26.md
+  -> reading\notes\technology\industry-policy\016-Laser-Die-Cutting-Bakers-Dozen-Publish-IELTS-Reading-Notes-2026-03-26.md
+reading\notes\technology\056-24KZ-Karaganda-Grid-Aktobe-Community-Policing-Reading-Notes-2026-03-30.md
+  -> reading\notes\technology\industry-policy\017-24KZ-Karaganda-Grid-Aktobe-Community-Policing-Reading-Notes-2026-03-30.md
+reading\notes\technology\059-Amazon-16000-Layoffs-Second-Adjustment-El-Pais-Cinco-Dias-Reading-Notes-2026-04-01.md
+  -> reading\notes\technology\industry-policy\018-Amazon-16000-Layoffs-Second-Adjustment-El-Pais-Cinco-Dias-Reading-Notes-2026-04-01.md
+reading\notes\technology\060-BI-Companies-Laying-Off-2026-Meta-Amazon-Oracle-List-Reading-Notes-2026-04-01.md
+  -> reading\notes\technology\industry-policy\019-BI-Companies-Laying-Off-2026-Meta-Amazon-Oracle-List-Reading-Notes-2026-04-01.md
+reading\notes\technology\061-Oracle-USA-TODAY-AI-Layoffs-Mike-Snider-Reading-Notes-2026-04-01.md
+  -> reading\notes\technology\industry-policy\020-Oracle-USA-TODAY-AI-Layoffs-Mike-Snider-Reading-Notes-2026-04-01.md
+reading\notes\technology\062-Kiwi-Ears-Cadenza-iXBT-Live-IELTS-Reading-Notes-2026-04-01.md
+  -> reading\notes\technology\industry-policy\021-Kiwi-Ears-Cadenza-iXBT-Live-IELTS-Reading-Notes-2026-04-01.md
+reading\notes\technology\063-Honor-360W-GaN-Samsung-AI-Wine-Refrigerator-iXBT-IELTS-Reading-Notes-2026-04-01.md
+  -> reading\notes\technology\industry-policy\022-Honor-360W-GaN-Samsung-AI-Wine-Refrigerator-iXBT-IELTS-Reading-Notes-2026-04-01.md
+reading\notes\technology\065-Unnamed-Chinese-Brand-Triple-200MP-Super-Cameraphone-iXBT-IELTS-Reading-Notes-2026-04-01.md
+  -> reading\notes\technology\industry-policy\023-Unnamed-Chinese-Brand-Triple-200MP-Super-Cameraphone-iXBT-IELTS-Reading-Notes-2026-04-01.md
+reading\notes\technology\069-Seeing-2030-15th-FYP-Smart-Agriculture-CCTV-Reading-Notes-2026-04-03.md
+  -> reading\notes\technology\industry-policy\024-Seeing-2030-15th-FYP-Smart-Agriculture-CCTV-Reading-Notes-2026-04-03.md
+reading\notes\technology\009-多语言学术文本深度解析-Supercar-Blondie-小米SU7工厂与概览效应-2026-03-16.md
+  -> reading\notes\technology\automotive\001-多语言学术文本深度解析-Supercar-Blondie-小米SU7工厂与概览效应-2026-03-16.md
+reading\notes\technology\010-NIO-Neo-Park-Factory-Tour-Reading-Notes-2026-03-16.md
+  -> reading\notes\technology\automotive\002-NIO-Neo-Park-Factory-Tour-Reading-Notes-2026-03-16.md
+reading\notes\technology\029-上海市颠覆性技术创新项目管理暂行办法-部门解读-精读笔记-2026-03-21.md
+  -> reading\notes\technology\automotive\003-上海市颠覆性技术创新项目管理暂行办法-部门解读-精读笔记-2026-03-21.md
+reading\notes\technology\032-BYD-Lawsuit-Trump-US-Auto-Tariffs-CNBC-Reading-Notes-2026-03-21-color.md
+  -> reading\notes\technology\automotive\004-BYD-Lawsuit-Trump-US-Auto-Tariffs-CNBC-Reading-Notes-2026-03-21-color.md
+reading\notes\technology\032-BYD-Lawsuit-Trump-US-Auto-Tariffs-CNBC-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\automotive\005-BYD-Lawsuit-Trump-US-Auto-Tariffs-CNBC-Reading-Notes-2026-03-21.md
+reading\notes\technology\033-BYD-unveils-North-Americas-largest-electric-bus-factory-METRO-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\automotive\006-BYD-unveils-North-Americas-largest-electric-bus-factory-METRO-Reading-Notes-2026-03-21.md
+reading\notes\technology\038-A-Tour-of-BYD-Factory-Lancaster-Legal-Planet-The-Drain-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\automotive\007-A-Tour-of-BYD-Factory-Lancaster-Legal-Planet-The-Drain-Reading-Notes-2026-03-21.md
+reading\notes\technology\053-BELTA-Electric-Buses-Belarus-Minprom-Reading-Notes-2026-03-29.md
+  -> reading\notes\technology\automotive\008-BELTA-Electric-Buses-Belarus-Minprom-Reading-Notes-2026-03-29.md
+reading\notes\technology\054-BELTA-Personal-Mobility-Lithium-Battery-Safety-MChS-Reading-Notes-2026-03-30.md
+  -> reading\notes\technology\automotive\009-BELTA-Personal-Mobility-Lithium-Battery-Safety-MChS-Reading-Notes-2026-03-30.md
+reading\notes\technology\058-Brazil-Dual-Fuel-Ethanol-Fleet-Gasoline-Prices-Iran-War-Oil-Shock-IELTS-Reading-Notes-2026-03-31.md
+  -> reading\notes\technology\automotive\010-Brazil-Dual-Fuel-Ethanol-Fleet-Gasoline-Prices-Iran-War-Oil-Shock-IELTS-Reading-Notes-2026-03-31.md
+reading\notes\technology\064-Moskvich-Umo-EV-Plant-Audit-TASS-Reading-Notes-2026-04-01.md
+  -> reading\notes\technology\automotive\011-Moskvich-Umo-EV-Plant-Audit-TASS-Reading-Notes-2026-04-01.md
+reading\notes\technology\068-China-Cars-Overtake-Japan-Global-Sales-No1-People-Daily-Japanese-Reading-Notes-2026-04-02.md
+  -> reading\notes\technology\automotive\012-China-Cars-Overtake-Japan-Global-Sales-No1-People-Daily-Japanese-Reading-Notes-2026-04-02.md
+reading\notes\technology\012-Reuters-China-No2-Chipmaker-7nm-Production-Reading-Notes-2026-03-17.md
+  -> reading\notes\technology\semiconductor\001-Reuters-China-No2-Chipmaker-7nm-Production-Reading-Notes-2026-03-17.md
+reading\notes\technology\013-Hua-Hong-Semiconductor-Company-Overview-Reading-Notes-2026-03-17.md
+  -> reading\notes\technology\semiconductor\002-Hua-Hong-Semiconductor-Company-Overview-Reading-Notes-2026-03-17.md
+reading\notes\technology\066-Chinese-Chipmakers-Market-Share-Nvidia-IDC-Reuters-Reading-Notes-2026-04-02.md
+  -> reading\notes\technology\semiconductor\003-Chinese-Chipmakers-Market-Share-Nvidia-IDC-Reuters-Reading-Notes-2026-04-02.md
+reading\notes\technology\035-RIDE-Apprenticeship-Program-SMART-AVC-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\shipping-logistics\001-RIDE-Apprenticeship-Program-SMART-AVC-Reading-Notes-2026-03-21.md
+reading\notes\technology\036-RIDE-Pre-Apprenticeship-Program-CBA-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\shipping-logistics\002-RIDE-Pre-Apprenticeship-Program-CBA-Reading-Notes-2026-03-21.md
+reading\notes\technology\037-RIDE-Love-the-Bus-Month-NAPT-Reading-Notes-2026-03-21.md
+  -> reading\notes\technology\shipping-logistics\003-RIDE-Love-the-Bus-Month-NAPT-Reading-Notes-2026-03-21.md
+reading\notes\technology\047-China-Intensifies-Inspections-On-Panamanian-Flagged-Ships-Reading-Notes-2026-03-24.md
+  -> reading\notes\technology\shipping-logistics\004-China-Intensifies-Inspections-On-Panamanian-Flagged-Ships-Reading-Notes-2026-03-24.md
+reading\notes\technology\055-Almaty-Bishkek-Highway-8-Lanes-Kazakhstan-Tengri-Auto-Reading-Notes-2026-03-30.md
+  -> reading\notes\technology\shipping-logistics\005-Almaty-Bishkek-Highway-8-Lanes-Kazakhstan-Tengri-Auto-Reading-Notes-2026-03-30.md
+reading\notes\technology\057-24KZ-Kostanay-Housing-Zhambyl-Almaty-Tashkent-Termez-Highway-IELTS-Reading-Notes-2026-03-30.md
+  -> reading\notes\technology\shipping-logistics\006-24KZ-Kostanay-Housing-Zhambyl-Almaty-Tashkent-Termez-Highway-IELTS-Reading-Notes-2026-03-30.md
+reading\notes\technology\067-World-First-10000-Unit-Dual-Fuel-PCTC-GSI-HMM-People-Daily-Japanese-Reading-Notes-2026-04-02.md
+  -> reading\notes\technology\shipping-logistics\007-World-First-10000-Unit-Dual-Fuel-PCTC-GSI-HMM-People-Daily-Japanese-Reading-Notes-2026-04-02.md
+generated\summaries\001-US-Military-Bases-Middle-East-Map-summary-2026-03-08.md
+  -> generated\summaries\politics\001-US-Military-Bases-Middle-East-Map-summary-2026-03-08.md
+generated\summaries\006-Daily-Telegraph-Starmer-US-Iran-summary-2026-03-09.md
+  -> generated\summaries\politics\002-Daily-Telegraph-Starmer-US-Iran-summary-2026-03-09.md
+generated\summaries\013-US-China-Research-Publications-2022-summary-2026-03-09.md
+  -> generated\summaries\politics\003-US-China-Research-Publications-2022-summary-2026-03-09.md
+generated\summaries\016-ESA-Sentinel-2-Kharg-Island-Iran-summary-2026-03-18.md
+  -> generated\summaries\politics\004-ESA-Sentinel-2-Kharg-Island-Iran-summary-2026-03-18.md
+generated\summaries\020-WHCA-Fitzpatrick-Heinrich-Red-Carpet-Media-Ethics-summary-2026-03-21.md
+  -> generated\summaries\politics\005-WHCA-Fitzpatrick-Heinrich-Red-Carpet-Media-Ethics-summary-2026-03-21.md
+generated\summaries\021-Institutional-Building-Entrance-Federal-Case-Context-summary-2026-03-21.md
+  -> generated\summaries\politics\006-Institutional-Building-Entrance-Federal-Case-Context-summary-2026-03-21.md
+generated\summaries\023-Ballistic-Missile-Vertical-Launch-Desert-ZUMAPRESS-summary-2026-03-22.md
+  -> generated\summaries\politics\007-Ballistic-Missile-Vertical-Launch-Desert-ZUMAPRESS-summary-2026-03-22.md
+generated\summaries\024-Chinese-Calligraphy-Integrity-Quote-Poster-summary-2026-03-22.md
+  -> generated\summaries\politics\008-Chinese-Calligraphy-Integrity-Quote-Poster-summary-2026-03-22.md
+generated\summaries\029-KPRF-Beijing-outdoor-delegation-visit-summary-2026-03-25.md
+  -> generated\summaries\politics\009-KPRF-Beijing-outdoor-delegation-visit-summary-2026-03-25.md
+generated\summaries\030-KPRF-Beijing-museum-exhibit-briefing-summary-2026-03-25.md
+  -> generated\summaries\politics\010-KPRF-Beijing-museum-exhibit-briefing-summary-2026-03-25.md
+generated\summaries\031-KPRF-Beijing-Zhostovo-tray-gift-summary-2026-03-25.md
+  -> generated\summaries\politics\011-KPRF-Beijing-Zhostovo-tray-gift-summary-2026-03-25.md
+generated\summaries\032-KPRF-Beijing-guestbook-CPC-exhibit-summary-2026-03-25.md
+  -> generated\summaries\politics\012-KPRF-Beijing-guestbook-CPC-exhibit-summary-2026-03-25.md
+generated\summaries\033-KPRF-Beijing-delegation-group-photo-hall-summary-2026-03-25.md
+  -> generated\summaries\politics\013-KPRF-Beijing-delegation-group-photo-hall-summary-2026-03-25.md
+generated\summaries\034-KPRF-Beijing-Soong-residence-tea-meeting-summary-2026-03-25.md
+  -> generated\summaries\politics\014-KPRF-Beijing-Soong-residence-tea-meeting-summary-2026-03-25.md
+generated\summaries\036-US-100-Dollar-Trump-Signature-Image-summary-2026-03-27.md
+  -> generated\summaries\politics\015-US-100-Dollar-Trump-Signature-Image-summary-2026-03-27.md
+generated\summaries\037-Trump-Commemorative-Coin-TV-Screenshot-summary-2026-03-27.md
+  -> generated\summaries\politics\016-Trump-Commemorative-Coin-TV-Screenshot-summary-2026-03-27.md
+generated\summaries\040-Russian-Tanker-Anatoliy-Kolodkin-Matanzas-Cuba-AFP-summary-2026-04-01.md
+  -> generated\summaries\politics\017-Russian-Tanker-Anatoliy-Kolodkin-Matanzas-Cuba-AFP-summary-2026-04-01.md
+generated\summaries\041-Russian-Tanker-Anatoliy-Kolodkin-Matanzas-Cuba-Reuters-Norlys-Perez-summary-2026-04-01.md
+  -> generated\summaries\politics\018-Russian-Tanker-Anatoliy-Kolodkin-Matanzas-Cuba-Reuters-Norlys-Perez-summary-2026-04-01.md
+generated\summaries\042-Pakistan-Egypt-Saudi-Turkey-Islamabad-FM-Meeting-TASS-summary-2026-04-01.md
+  -> generated\summaries\politics\019-Pakistan-Egypt-Saudi-Turkey-Islamabad-FM-Meeting-TASS-summary-2026-04-01.md
+generated\summaries\044-RYBAR-Middle-East-Instability-March-2026-summary-2026-04-01.md
+  -> generated\summaries\politics\020-RYBAR-Middle-East-Instability-March-2026-summary-2026-04-01.md
+generated\summaries\046-Raid-Al-Mutairi-Liaoning-Friendship-Award-HAPCO-Aramco-summary-2026-04-02.md
+  -> generated\summaries\politics\021-Raid-Al-Mutairi-Liaoning-Friendship-Award-HAPCO-Aramco-summary-2026-04-02.md
+generated\summaries\047-China-Pipeline-Gas-Network-Power-of-Siberia-summary-2026-04-02.md
+  -> generated\summaries\politics\022-China-Pipeline-Gas-Network-Power-of-Siberia-summary-2026-04-02.md
+generated\summaries\048-China-Natural-Gas-Consumption-Sources-Bar-Charts-summary-2026-04-02.md
+  -> generated\summaries\politics\023-China-Natural-Gas-Consumption-Sources-Bar-Charts-summary-2026-04-02.md
+generated\summaries\049-China-Electricity-Share-by-Source-Coal-Renewables-summary-2026-04-02.md
+  -> generated\summaries\politics\024-China-Electricity-Share-by-Source-Coal-Renewables-summary-2026-04-02.md
+generated\summaries\050-China-EV-Oil-Displacement-IEA-CREA-summary-2026-04-02.md
+  -> generated\summaries\politics\025-China-EV-Oil-Displacement-IEA-CREA-summary-2026-04-02.md
+generated\summaries\051-China-Embassy-Female-Diplomats-VK-HQ-Meeting-summary-2026-04-03.md
+  -> generated\summaries\politics\026-China-Embassy-Female-Diplomats-VK-HQ-Meeting-summary-2026-04-03.md
+generated\summaries\052-China-Embassy-Female-Diplomats-VK-HQ-Group-Tour-summary-2026-04-03.md
+  -> generated\summaries\politics\027-China-Embassy-Female-Diplomats-VK-HQ-Group-Tour-summary-2026-04-03.md
+generated\summaries\002-City-Rooftops-Dramatic-Sky-summary-2026-03-08.md
+  -> generated\summaries\other\001-City-Rooftops-Dramatic-Sky-summary-2026-03-08.md
+generated\summaries\003-m2-Res-1280p-summary-2026-03-08.md
+  -> generated\summaries\other\002-m2-Res-1280p-summary-2026-03-08.md
+generated\summaries\007-City-Skyline-Smoke-Sunset-summary-2026-03-09.md
+  -> generated\summaries\other\003-City-Skyline-Smoke-Sunset-summary-2026-03-09.md
+generated\summaries\014-PEDHA-BS-Degrees-Reported-summary-2026-03-09.md
+  -> generated\summaries\other\004-PEDHA-BS-Degrees-Reported-summary-2026-03-09.md
+generated\summaries\015-Globe-Motors-Component-OSINT-summary-2026-03-12.md
+  -> generated\summaries\other\005-Globe-Motors-Component-OSINT-summary-2026-03-12.md
+generated\summaries\019-Star-Trek-Starships-Collection-116-USS-Curry-Cover-summary-2026-03-21.md
+  -> generated\summaries\other\006-Star-Trek-Starships-Collection-116-USS-Curry-Cover-summary-2026-03-21.md
+generated\summaries\025-bridge-tower-picture-set-summary-2026-03-22.md
+  -> generated\summaries\other\007-bridge-tower-picture-set-summary-2026-03-22.md
+generated\summaries\026-Moskvich-Polyarnik-Snow-Mountains-BAM-summary-2026-03-25.md
+  -> generated\summaries\other\008-Moskvich-Polyarnik-Snow-Mountains-BAM-summary-2026-03-25.md
+generated\summaries\027-Moskvich-Polyarnik-Birobidzhan-Night-summary-2026-03-25.md
+  -> generated\summaries\other\009-Moskvich-Polyarnik-Birobidzhan-Night-summary-2026-03-25.md
+generated\summaries\028-Moskvich-Polyarnik-Vostochny-Cosmodrome-summary-2026-03-25.md
+  -> generated\summaries\other\010-Moskvich-Polyarnik-Vostochny-Cosmodrome-summary-2026-03-25.md
+generated\summaries\038-Renwu-Li-Yunxiao-March-2026-Cover-Bronze-Pleated-summary-2026-03-31.md
+  -> generated\summaries\other\011-Renwu-Li-Yunxiao-March-2026-Cover-Bronze-Pleated-summary-2026-03-31.md
+generated\summaries\039-Renwu-Li-Yunxiao-March-2026-Cover-Outdoor-Turtleneck-summary-2026-03-31.md
+  -> generated\summaries\other\012-Renwu-Li-Yunxiao-March-2026-Cover-Outdoor-Turtleneck-summary-2026-03-31.md
+generated\summaries\008-Mandrill-Wildlife-Photo-summary-2026-03-09.md
+  -> generated\summaries\science\001-Mandrill-Wildlife-Photo-summary-2026-03-09.md
+generated\summaries\009-Cosmic-Web-Structure-Visualization-summary-2026-03-09.md
+  -> generated\summaries\science\002-Cosmic-Web-Structure-Visualization-summary-2026-03-09.md
+generated\summaries\010-Green-Crab-Shallow-Water-summary-2026-03-09.md
+  -> generated\summaries\science\003-Green-Crab-Shallow-Water-summary-2026-03-09.md
+generated\summaries\011-Spiny-Lobster-Coral-Reef-summary-2026-03-09.md
+  -> generated\summaries\science\004-Spiny-Lobster-Coral-Reef-summary-2026-03-09.md
+generated\summaries\012-Colorful-Crab-Rocky-Shore-summary-2026-03-09.md
+  -> generated\summaries\science\005-Colorful-Crab-Rocky-Shore-summary-2026-03-09.md
+generated\summaries\017-AI-Buzzword-Bingo-Meeting-Satire-summary-2026-03-20.md
+  -> generated\summaries\technology\001-AI-Buzzword-Bingo-Meeting-Satire-summary-2026-03-20.md
+generated\summaries\018-KPPU-AUX-Distribution-Hearing-Visuals-summary-2026-03-21.md
+  -> generated\summaries\technology\002-KPPU-AUX-Distribution-Hearing-Visuals-summary-2026-03-21.md
+generated\summaries\022-Century-of-Fighter-Jets-Book-Cover-summary-2026-03-21.md
+  -> generated\summaries\technology\003-Century-of-Fighter-Jets-Book-Cover-summary-2026-03-21.md
+generated\summaries\035-Golden-Laser-Industrial-Visit-OSINT-summary-2026-03-26.md
+  -> generated\summaries\technology\004-Golden-Laser-Industrial-Visit-OSINT-summary-2026-03-26.md
+generated\summaries\043-15th-Five-Year-Plan-Young-Drafters-Video-summary-2026-04-01.md
+  -> generated\summaries\technology\005-15th-Five-Year-Plan-Young-Drafters-Video-summary-2026-04-01.md
+generated\summaries\045-Zhonghua-Kao-Gong-Ji-Season-1-Main-Poster-CMG-summary-2026-04-01.md
+  -> generated\summaries\technology\006-Zhonghua-Kao-Gong-Ji-Season-1-Main-Poster-CMG-summary-2026-04-01.md

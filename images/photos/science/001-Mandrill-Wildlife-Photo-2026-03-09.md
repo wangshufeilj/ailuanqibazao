@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`001-Mandrill-Wildlife-Photo-2026-03-09.jpg`
-- **摘要文件**：[008-Mandrill-Wildlife-Photo-summary-2026-03-09.md](../../../generated/summaries/008-Mandrill-Wildlife-Photo-summary-2026-03-09.md)
+- **摘要文件**：[008-Mandrill-Wildlife-Photo-summary-2026-03-09.md](../../../generated/summaries/science/001-Mandrill-Wildlife-Photo-summary-2026-03-09.md)
 
 ## 说明
 

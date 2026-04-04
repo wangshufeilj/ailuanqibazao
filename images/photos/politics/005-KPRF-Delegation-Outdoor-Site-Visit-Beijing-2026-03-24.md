@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`005-KPRF-Delegation-Outdoor-Site-Visit-Beijing-2026-03-24.png`（与本 `.md` 同目录）。
-- **摘要文件**：[029-KPRF-Beijing-outdoor-delegation-visit-summary-2026-03-25.md](../../../generated/summaries/029-KPRF-Beijing-outdoor-delegation-visit-summary-2026-03-25.md)
+- **摘要文件**：[029-KPRF-Beijing-outdoor-delegation-visit-summary-2026-03-25.md](../../../generated/summaries/politics/009-KPRF-Beijing-outdoor-delegation-visit-summary-2026-03-25.md)
 
 ## 画面要点（便于检索；以图像为准）
 

@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`006-KPRF-Museum-Exhibit-Briefing-Beijing-2026-03-24.png`（与本 `.md` 同目录）。
-- **摘要文件**：[030-KPRF-Beijing-museum-exhibit-briefing-summary-2026-03-25.md](../../../generated/summaries/030-KPRF-Beijing-museum-exhibit-briefing-summary-2026-03-25.md)
+- **摘要文件**：[030-KPRF-Beijing-museum-exhibit-briefing-summary-2026-03-25.md](../../../generated/summaries/politics/010-KPRF-Beijing-museum-exhibit-briefing-summary-2026-03-25.md)
 
 ## 画面要点（便于检索；以图像为准）
 

@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`001-US-China-Research-Publications-2022-2026-03-09.png`
-- **摘要文件**：[013-US-China-Research-Publications-2022-summary-2026-03-09.md](../../../generated/summaries/013-US-China-Research-Publications-2022-summary-2026-03-09.md)
+- **摘要文件**：[013-US-China-Research-Publications-2022-summary-2026-03-09.md](../../../generated/summaries/politics/003-US-China-Research-Publications-2022-summary-2026-03-09.md)
 
 ## 说明
 

@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`007-KPRF-Zhostovo-Tray-Ceremonial-Gift-Beijing-2026-03-24.png`（与本 `.md` 同目录）。
-- **摘要文件**：[031-KPRF-Beijing-Zhostovo-tray-gift-summary-2026-03-25.md](../../../generated/summaries/031-KPRF-Beijing-Zhostovo-tray-gift-summary-2026-03-25.md)
+- **摘要文件**：[031-KPRF-Beijing-Zhostovo-tray-gift-summary-2026-03-25.md](../../../generated/summaries/politics/011-KPRF-Beijing-Zhostovo-tray-gift-summary-2026-03-25.md)
 
 ## 画面要点（便于检索；以图像为准）
 

@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`009-KPRF-Delegation-Group-Photo-Formal-Hall-2026-03-24.png`（与本 `.md` 同目录）。
-- **摘要文件**：[033-KPRF-Beijing-delegation-group-photo-hall-summary-2026-03-25.md](../../../generated/summaries/033-KPRF-Beijing-delegation-group-photo-hall-summary-2026-03-25.md)
+- **摘要文件**：[033-KPRF-Beijing-delegation-group-photo-hall-summary-2026-03-25.md](../../../generated/summaries/politics/013-KPRF-Beijing-delegation-group-photo-hall-summary-2026-03-25.md)
 
 ## 画面要点（便于检索；以图像为准）
 

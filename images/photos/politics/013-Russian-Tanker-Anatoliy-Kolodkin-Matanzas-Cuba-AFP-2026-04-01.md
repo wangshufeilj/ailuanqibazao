@@ -7,7 +7,7 @@
 - **来源链接**: https://vnexpress.net/tau-nga-cho-730-000-thung-dau-cap-cang-cuba-5056964.html
 - **描述**: 大型油轮靠泊工业码头；船尾俄文船名「АНАТОЛИЙ КОЛОДКИН」、船籍港「САНКТ-ПЕТЕРБУРГ」；背景可见标有 CUPET 的储罐与港口设施。
 - **原文件**: 013-Russian-Tanker-Anatoliy-Kolodkin-Matanzas-Cuba-AFP-2026-04-01.png
-- **摘要链接**: [📄 040-Russian-Tanker-Anatoliy-Kolodkin-Matanzas-Cuba-AFP-summary-2026-04-01.md](../../../generated/summaries/040-Russian-Tanker-Anatoliy-Kolodkin-Matanzas-Cuba-AFP-summary-2026-04-01.md)
+- **摘要链接**: [📄 040-Russian-Tanker-Anatoliy-Kolodkin-Matanzas-Cuba-AFP-summary-2026-04-01.md](../../../generated/summaries/politics/017-Russian-Tanker-Anatoliy-Kolodkin-Matanzas-Cuba-AFP-summary-2026-04-01.md)
 
 ## 说明
 

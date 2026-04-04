@@ -6,7 +6,7 @@
 | 日期 | 2026-03-22 |
 | 图片数量 | 4 |
 | 来源文章 | [📄 池州长江公铁大桥双主塔封顶：安徽第6座公铁大桥加快成型](../../../../chinese-documents/local-media/005-池州长江公铁大桥双主塔封顶-精读笔记-2026-03-22.md) |
-| 组图摘要 | [📄 025-bridge-tower-picture-set-summary-2026-03-22.md](../../../generated/summaries/025-bridge-tower-picture-set-summary-2026-03-22.md) |
+| 组图摘要 | [📄 025-bridge-tower-picture-set-summary-2026-03-22.md](../../../generated/summaries/other/007-bridge-tower-picture-set-summary-2026-03-22.md) |
 
 ## 图片清单
 

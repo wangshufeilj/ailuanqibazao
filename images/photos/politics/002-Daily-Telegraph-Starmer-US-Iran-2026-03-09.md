@@ -8,4 +8,4 @@
 | 日期 | 2026-03-09（录入） |
 | 原文件名 | 69ac6d1e2030270a1c07bca4.jpg |
 | 主题 | 政治（国际关系、中东危机） |
-| 摘要链接 | [摘要](../../generated/summaries/006-Daily-Telegraph-Starmer-US-Iran-summary-2026-03-09.md) |
+| 摘要链接 | [摘要](../../generated/summaries/politics/002-Daily-Telegraph-Starmer-US-Iran-summary-2026-03-09.md) |

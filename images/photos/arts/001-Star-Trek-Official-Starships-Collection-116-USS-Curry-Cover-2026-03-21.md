@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`001-Star-Trek-Official-Starships-Collection-116-USS-Curry-Cover-2026-03-21.png`（已复制至与本 `.md` 同目录；仓库 `.gitignore` 忽略 `*.png`，提交记录以本元信息为准）。
-- **摘要文件**：[019-Star-Trek-Starships-Collection-116-USS-Curry-Cover-summary-2026-03-21.md](../../../generated/summaries/019-Star-Trek-Starships-Collection-116-USS-Curry-Cover-summary-2026-03-21.md)
+- **摘要文件**：[019-Star-Trek-Starships-Collection-116-USS-Curry-Cover-summary-2026-03-21.md](../../../generated/summaries/other/006-Star-Trek-Starships-Collection-116-USS-Curry-Cover-summary-2026-03-21.md)
 
 ## 封面可读信息（便于检索）
 

@@ -24,6 +24,8 @@ tags:
   - 伊尔库茨克
 ---
 
+![«Москвич-Полярник» 团队雪地合影](../../../images/photos/geography/009-Moskvich-Polar-Explorer-Team-Snow-FEFD-Vostok-Media-2026-03-25.png)
+
 ### 文章背景与来源 | Background & Source
 *   **来源 (Source):** Vostok Media (Восток-Медиа)
 *   **题目 (Title):** Tourism - The East is Won: The "Moskvich-Polar Explorer" Has Conquered All Regions of the FEFD (Туризм - Восток взят: Москвич-Полярник покорил все регионы ДФО)

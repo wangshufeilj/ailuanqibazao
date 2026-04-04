@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`004-Renwu-Li-Yunxiao-March-2026-Cover-Outdoor-Turtleneck-2026-03-31.png`（已复制至与本 `.md` 同目录）
-- **摘要文件**：[039-Renwu-Li-Yunxiao-March-2026-Cover-Outdoor-Turtleneck-summary-2026-03-31.md](../../../generated/summaries/039-Renwu-Li-Yunxiao-March-2026-Cover-Outdoor-Turtleneck-summary-2026-03-31.md)
+- **摘要文件**：[039-Renwu-Li-Yunxiao-March-2026-Cover-Outdoor-Turtleneck-summary-2026-03-31.md](../../../generated/summaries/other/012-Renwu-Li-Yunxiao-March-2026-Cover-Outdoor-Turtleneck-summary-2026-03-31.md)
 
 ## 可读信息
 

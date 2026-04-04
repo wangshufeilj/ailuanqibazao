@@ -6,7 +6,7 @@
 - **来源**: User provided image
 - **描述**: 五人于标有 GOLDEN LASER 的工业激光设备前合影；场景似工厂/展厅/接待区。机身标识与武汉金运激光股份有限公司对外品牌一致，具体拍摄地点、人物与时间仅凭本图无法确认。
 - **原文件**: 002-Golden-Laser-Industrial-Equipment-Visit-2026-03-26.png
-- **摘要链接**: [📄 035-Golden-Laser-Industrial-Visit-OSINT-summary-2026-03-26.md](../../../generated/summaries/035-Golden-Laser-Industrial-Visit-OSINT-summary-2026-03-26.md)
+- **摘要链接**: [📄 035-Golden-Laser-Industrial-Visit-OSINT-summary-2026-03-26.md](../../../generated/summaries/technology/004-Golden-Laser-Industrial-Visit-OSINT-summary-2026-03-26.md)
 
 ## 结论与背景说明（用户提供）
 

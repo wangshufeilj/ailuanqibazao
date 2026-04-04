@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`002-Chinese-Calligraphy-Integrity-Quote-Poster-2026-03-22.png`（已复制至与本 `.md` 同目录）
-- **摘要文件**：[024-Chinese-Calligraphy-Integrity-Quote-Poster-summary-2026-03-22.md](../../../generated/summaries/024-Chinese-Calligraphy-Integrity-Quote-Poster-summary-2026-03-22.md)
+- **摘要文件**：[024-Chinese-Calligraphy-Integrity-Quote-Poster-summary-2026-03-22.md](../../../generated/summaries/politics/008-Chinese-Calligraphy-Integrity-Quote-Poster-summary-2026-03-22.md)
 
 ## 可读信息
 

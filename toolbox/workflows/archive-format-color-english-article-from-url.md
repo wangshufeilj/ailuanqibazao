@@ -1,7 +1,7 @@
 # 工作流：从 URL 存档英文长文（抓取 → 排版 → 加粗 → 炫彩 HTML）
 
 本文档固化一次完整闭环：**用户提供原文链接** → **正文入库** → **版式美化** → **重点加粗** → **（可选）HTML 炫彩**。  
-成功案例：[SiliconSnark《The Complete Guide to Tech Marketing Buzzwords (1995–2025)》](https://www.siliconsnark.com/the-complete-guide-to-tech-marketing-buzzwords-1995-2025/)，仓库内成品见 [📄 002 英文存档](../../articles/technology/002-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-2025-06-01.md) 与 [📄 025/026 精读笔记](../../reading/notes/technology/025-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-Reading-Notes-2026-03-20.md)。
+成功案例：[SiliconSnark《The Complete Guide to Tech Marketing Buzzwords (1995–2025)》](https://www.siliconsnark.com/the-complete-guide-to-tech-marketing-buzzwords-1995-2025/)，仓库内成品见 [📄 002 英文存档](../../articles/technology/002-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-2025-06-01.md) 与 [📄 025/026 精读笔记](../../reading/notes/technology/ai-digital/009-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-Reading-Notes-2026-03-20.md)。
 
 ---
 
@@ -157,8 +157,8 @@ flowchart LR
 ## 十二、本仓库中的参考成品
 
 - [📄 英文全文（炫彩版）](../../articles/technology/002-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-2025-06-01.md)  
-- [📄 精读笔记 025](../../reading/notes/technology/025-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-Reading-Notes-2026-03-20.md)  
-- [📄 精读笔记 026](../../reading/notes/technology/026-2000s-Tech-Marketing-Buzzwords-Early-Late-IELTS-Reading-Notes-2026-03-20.md)  
+- [📄 精读笔记 025](../../reading/notes/technology/ai-digital/009-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-Reading-Notes-2026-03-20.md)  
+- [📄 精读笔记 026](../../reading/notes/technology/ai-digital/010-2000s-Tech-Marketing-Buzzwords-Early-Late-IELTS-Reading-Notes-2026-03-20.md)  
 
 ---
 

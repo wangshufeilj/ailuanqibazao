@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`002-Green-Crab-Shallow-Water-2026-03-09.png`
-- **摘要文件**：[010-Green-Crab-Shallow-Water-summary-2026-03-09.md](../../../generated/summaries/010-Green-Crab-Shallow-Water-summary-2026-03-09.md)
+- **摘要文件**：[010-Green-Crab-Shallow-Water-summary-2026-03-09.md](../../../generated/summaries/science/003-Green-Crab-Shallow-Water-summary-2026-03-09.md)
 
 ## 说明
 

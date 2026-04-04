@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`003-Institutional-Building-Entrance-Federal-Case-Context-2026-03-21.png`（与本 `.md` 同目录；若仓库忽略大图片，以本元信息为准）。
-- **摘要文件**：[021-Institutional-Building-Entrance-Federal-Case-Context-summary-2026-03-21.md](../../../generated/summaries/021-Institutional-Building-Entrance-Federal-Case-Context-summary-2026-03-21.md)
+- **摘要文件**：[021-Institutional-Building-Entrance-Federal-Case-Context-summary-2026-03-21.md](../../../generated/summaries/politics/006-Institutional-Building-Entrance-Federal-Case-Context-summary-2026-03-21.md)
 
 ## 画面要点（便于检索）
 

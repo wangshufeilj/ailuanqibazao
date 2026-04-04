@@ -20,7 +20,7 @@ tags:
   - 印尼语材料
   - 精读笔记
 media:
-  summary: generated/summaries/018-KPPU-AUX-Distribution-Hearing-Visuals-summary-2026-03-21.md
+  summary: generated/summaries/technology/002-KPPU-AUX-Distribution-Hearing-Visuals-summary-2026-03-21.md
   images_meta:
     - images/photos/law/001-KPPU-AUX-Distribution-Hearing-Press-Visual-2026-03-21.md
     - images/photos/law/002-KPPU-Majelis-Komisi-Evidence-Session-2026-03-21.md
@@ -30,7 +30,7 @@ media:
 
 **来源**：印度尼西亚 KPPU 公开听证相关画面（含机构标识与文案叠加）及用户提供的案情说明｜**听证日期**：2026 年 3 月 9 日（Senin）｜**笔记录入**：2026-03-21
 
-**关联摘要**：[📄 KPPU AUX 分销案听证画面摘要（双图）](generated/summaries/018-KPPU-AUX-Distribution-Hearing-Visuals-summary-2026-03-21.md)
+**关联摘要**：[📄 KPPU AUX 分销案听证画面摘要（双图）](generated/summaries/technology/002-KPPU-AUX-Distribution-Hearing-Visuals-summary-2026-03-21.md)
 
 **配图元信息**：[📄 图一 元信息](images/photos/law/001-KPPU-AUX-Distribution-Hearing-Press-Visual-2026-03-21.md)｜[📄 图二 元信息](images/photos/law/002-KPPU-Majelis-Komisi-Evidence-Session-2026-03-21.md)
 

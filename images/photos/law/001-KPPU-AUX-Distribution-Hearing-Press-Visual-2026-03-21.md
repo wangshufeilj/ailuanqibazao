@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`001-KPPU-AUX-Distribution-Hearing-Press-Visual-2026-03-21.png`（已复制至与本 `.md` 同目录；仓库 `.gitignore` 忽略 `*.png`，提交记录以本元信息为准）。
-- **摘要文件**：[018-KPPU-AUX-Distribution-Hearing-Visuals-summary-2026-03-21.md](../../../generated/summaries/018-KPPU-AUX-Distribution-Hearing-Visuals-summary-2026-03-21.md)
+- **摘要文件**：[018-KPPU-AUX-Distribution-Hearing-Visuals-summary-2026-03-21.md](../../../generated/summaries/technology/002-KPPU-AUX-Distribution-Hearing-Visuals-summary-2026-03-21.md)
 
 ## 画面要点（便于检索）
 

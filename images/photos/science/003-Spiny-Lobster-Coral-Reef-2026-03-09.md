@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`003-Spiny-Lobster-Coral-Reef-2026-03-09.png`
-- **摘要文件**：[011-Spiny-Lobster-Coral-Reef-summary-2026-03-09.md](../../../generated/summaries/011-Spiny-Lobster-Coral-Reef-summary-2026-03-09.md)
+- **摘要文件**：[011-Spiny-Lobster-Coral-Reef-summary-2026-03-09.md](../../../generated/summaries/science/004-Spiny-Lobster-Coral-Reef-summary-2026-03-09.md)
 
 ## 说明
 

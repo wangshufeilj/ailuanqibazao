@@ -8,7 +8,7 @@
 - **来源链接**: （见路透社图库 / 授权页；用户可自填具体稿件或图库 URL）
 - **描述**: 俄籍油轮在马坦萨斯湾水域；船尾俄文船名「АНАТОЛИЙ КОЛОДКИН」、船籍港「САНКТ-ПЕТЕРБУРГ」；超白上层建筑与拖轮伴航；远景为沿岸植被与灰蒙天空。
 - **原文件**: 014-Russian-Tanker-Anatoliy-Kolodkin-Matanzas-Cuba-Reuters-Norlys-Perez-2026-04-01.png
-- **摘要链接**: [📄 041-Russian-Tanker-Anatoliy-Kolodkin-Matanzas-Cuba-Reuters-Norlys-Perez-summary-2026-04-01.md](../../../generated/summaries/041-Russian-Tanker-Anatoliy-Kolodkin-Matanzas-Cuba-Reuters-Norlys-Perez-summary-2026-04-01.md)
+- **摘要链接**: [📄 041-Russian-Tanker-Anatoliy-Kolodkin-Matanzas-Cuba-Reuters-Norlys-Perez-summary-2026-04-01.md](../../../generated/summaries/politics/018-Russian-Tanker-Anatoliy-Kolodkin-Matanzas-Cuba-Reuters-Norlys-Perez-summary-2026-04-01.md)
 
 ## 说明
 

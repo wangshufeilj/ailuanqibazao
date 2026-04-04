@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`004-WHCA-Red-Carpet-Fitzpatrick-Heinrich-2026-03-21.png`（与本 `.md` 同目录）。
-- **摘要文件**：[020-WHCA-Fitzpatrick-Heinrich-Red-Carpet-Media-Ethics-summary-2026-03-21.md](../../../generated/summaries/020-WHCA-Fitzpatrick-Heinrich-Red-Carpet-Media-Ethics-summary-2026-03-21.md)
+- **摘要文件**：[020-WHCA-Fitzpatrick-Heinrich-Red-Carpet-Media-Ethics-summary-2026-03-21.md](../../../generated/summaries/politics/005-WHCA-Fitzpatrick-Heinrich-Red-Carpet-Media-Ethics-summary-2026-03-21.md)
 
 ## 画面要点（便于检索；以图像为准）
 

@@ -14,7 +14,7 @@
 ## 文件信息
 
 - **图片文件**：`002-Ballistic-Missile-Vertical-Launch-Desert-ZUMAPRESS-2026-03-22.png`（已保存并重命名到本目录）。
-- **摘要文件**：[023-Ballistic-Missile-Vertical-Launch-Desert-ZUMAPRESS-summary-2026-03-22.md](../../../generated/summaries/023-Ballistic-Missile-Vertical-Launch-Desert-ZUMAPRESS-summary-2026-03-22.md)
+- **摘要文件**：[023-Ballistic-Missile-Vertical-Launch-Desert-ZUMAPRESS-summary-2026-03-22.md](../../../generated/summaries/politics/007-Ballistic-Missile-Vertical-Launch-Desert-ZUMAPRESS-summary-2026-03-22.md)
 
 ## 画面要点（便于检索）
 

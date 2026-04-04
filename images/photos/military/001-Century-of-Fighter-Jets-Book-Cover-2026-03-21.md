@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`001-Century-of-Fighter-Jets-Book-Cover-2026-03-21.png`（已保存并重命名到本目录）。
-- **摘要文件**：[022-Century-of-Fighter-Jets-Book-Cover-summary-2026-03-21.md](../../../generated/summaries/022-Century-of-Fighter-Jets-Book-Cover-summary-2026-03-21.md)
+- **摘要文件**：[022-Century-of-Fighter-Jets-Book-Cover-summary-2026-03-21.md](../../../generated/summaries/technology/003-Century-of-Fighter-Jets-Book-Cover-summary-2026-03-21.md)
 
 ## 画面要点（便于检索）
 

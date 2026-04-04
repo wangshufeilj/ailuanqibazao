@@ -13,7 +13,7 @@
 ## 文件信息
 
 - **图片文件**：`004-Colorful-Crab-Rocky-Shore-2026-03-09.png`
-- **摘要文件**：[012-Colorful-Crab-Rocky-Shore-summary-2026-03-09.md](../../../generated/summaries/012-Colorful-Crab-Rocky-Shore-summary-2026-03-09.md)
+- **摘要文件**：[012-Colorful-Crab-Rocky-Shore-summary-2026-03-09.md](../../../generated/summaries/science/005-Colorful-Crab-Rocky-Shore-summary-2026-03-09.md)
 
 ## 说明
 

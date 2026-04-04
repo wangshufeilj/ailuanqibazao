@@ -5,4 +5,4 @@
 | 类型 | 图片（地图/图表） |
 | 日期 | 2026-03-08 |
 | 原文件 | 001-US-Military-Bases-Middle-East-Map-2026-03-08.png |
-| 摘要 | [generated/summaries/001-US-Military-Bases-Middle-East-Map-summary-2026-03-08.md](../../generated/summaries/001-US-Military-Bases-Middle-East-Map-summary-2026-03-08.md) |
+| 摘要 | [generated/summaries/politics/001-US-Military-Bases-Middle-East-Map-summary-2026-03-08.md](../../generated/summaries/politics/001-US-Military-Bases-Middle-East-Map-summary-2026-03-08.md) |

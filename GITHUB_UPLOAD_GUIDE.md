@@ -9,7 +9,7 @@
 - `.cursor/rules/python-tech-stack.mdc`
 - `reading/notes/game/001-Joe-Merrick-Serebii-Pokemon-Polygon-Interview-Reading-Notes-2026-03-11.md`
 - `reading/notes/law/002-ATP-Oil-Gas-Corporation-Bankruptcy-Case-Notes-2026-03-10.md`
-- `reading/notes/politics/007-Trump-Florsheim-Shoe-Company-Lawsuit-Notes-2026-03-11.md`
+- `reading/notes/politics/domestic-policy/us-domestic/001-Trump-Florsheim-Shoe-Company-Lawsuit-Notes-2026-03-11.md`
 - `reading/notes/science/002-Tiny-Long-Armed-Dinosaur-Rethink-Miniaturization-Notes-2026-03-11.md`
 - `reading/notes/science/003-Strange-Reason-Bears-Attacking-People-Japan-Vox-Notes-2026-03-11.md`
 - `social/posts/education/001-Former-TA-Advice-for-Students-Reddit-2026-03-11.md`

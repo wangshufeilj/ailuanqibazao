@@ -8,4 +8,4 @@
 | 日期 | 2026-03-09（录入） |
 | 原文件名 | 69ac73652030270d05771e77.jpg |
 | 主题 | 综合（城市景观、环境、灾害） |
-| 摘要链接 | [摘要](../../generated/summaries/007-City-Skyline-Smoke-Sunset-summary-2026-03-09.md) |
+| 摘要链接 | [摘要](../../generated/summaries/other/003-City-Skyline-Smoke-Sunset-summary-2026-03-09.md) |

@@ -17,4 +17,4 @@
 
 ## 摘要链接
 
-[摘要文件](../../../generated/summaries/014-PEDHA-BS-Degrees-Reported-summary-2026-03-09.md)
+[摘要文件](../../../generated/summaries/other/004-PEDHA-BS-Degrees-Reported-summary-2026-03-09.md)
