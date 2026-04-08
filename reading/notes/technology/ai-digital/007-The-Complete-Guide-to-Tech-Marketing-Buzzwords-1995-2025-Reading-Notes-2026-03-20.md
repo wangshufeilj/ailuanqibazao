@@ -20,7 +20,7 @@ tags:
   - SiliconSnark
 ---
 
-**同系列续篇：** 本篇精读覆盖长文至 **1990 年代末**；**2000 年代初**（泡沫后、创新/Web 2.0、Salesforce「无软件」）与 **2000 年代末**（云、移动优先、生态、大数据、微软云转型）见 [📄 2000年代科技营销流行语精读（泡沫后创新、Web 2.0、云与大数据）](026-2000s-Tech-Marketing-Buzzwords-Early-Late-IELTS-Reading-Notes-2026-03-20.md)。
+**同系列续篇：** 本篇精读覆盖长文至 **1990 年代末**；**2000 年代初**（泡沫后、创新/Web 2.0、Salesforce「无软件」）与 **2000 年代末**（云、移动优先、生态、大数据、微软云转型）见 [📄 2000年代科技营销流行语精读（泡沫后创新、Web 2.0、云与大数据）](008-2000s-Tech-Marketing-Buzzwords-Early-Late-IELTS-Reading-Notes-2026-03-20.md)。
 
 **全文英文存档：** [📄 The Complete Guide to Tech Marketing Buzzwords (1995–2025) — English full text](../../articles/technology/002-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-2025-06-01.md)
 

@@ -69,7 +69,7 @@ tags:
 ---
 
 ### 文章基本信息
-*   **来源 (Source)**: SiliconSnark（CircuitSmith），[siliconsnark.com](https://siliconsnark.com)；与仓库内 [025 同系列长文笔记](025-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-Reading-Notes-2026-03-20.md) 同源连载
+*   **来源 (Source)**: SiliconSnark（CircuitSmith），[siliconsnark.com](https://siliconsnark.com)；与仓库内 [007 同系列长文笔记](007-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-Reading-Notes-2026-03-20.md) 同源连载
 *   **题目 (Title)**: **2000年代初期：互联网泡沫破裂之后——创新、Web 2.0 与“无软件” (The Early 2000s: After the Dot-Com Bust – Innovation, Web 2.0, and “No Software”)**；**2000年代末期：总有一款应用适合你——移动、云与大数据 (The Late 2000s: There’s an App for That – Mobile, Cloud, and Big Data)**
 *   **作者背景 (Author Background)**: **CircuitSmith**（SiliconSnark 主笔）：长于科技史与营销话术的讽刺性梳理，笔调接近 *The Verge* / *Wired* 一类深度回顾专栏；商业英语地道，适合积累雅思写作科技类语料。
 
@@ -913,7 +913,7 @@ This article traces the evolution of technology marketing buzzwords across two d
 
 ## 3A. 来源背景
 
-原文出自独立站点 **SiliconSnark**（[siliconsnark.com](https://siliconsnark.com)），与项目内 [025 精读笔记](025-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-Reading-Notes-2026-03-20.md) 为同一篇「科技营销流行语史」长文的后续章节；体裁为面向科技爱好者与商业读者的长篇历史评论（long-form essay）。
+原文出自独立站点 **SiliconSnark**（[siliconsnark.com](https://siliconsnark.com)），与项目内 [007 精读笔记](007-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-Reading-Notes-2026-03-20.md) 为同一篇「科技营销流行语史」长文的后续章节；体裁为面向科技爱好者与商业读者的长篇历史评论（long-form essay）。
 
 ---
 

@@ -5,7 +5,7 @@ source_url:
 author: 张飒（访谈）；肖涵（受访）
 date: 2026-03-19
 created_date: 2026-03-19
-category: reading/notes/technology/ai-digital
+category: reading/notes/technology/ai-digital/company-funding
 tags:
   - Jina AI
   - 肖涵

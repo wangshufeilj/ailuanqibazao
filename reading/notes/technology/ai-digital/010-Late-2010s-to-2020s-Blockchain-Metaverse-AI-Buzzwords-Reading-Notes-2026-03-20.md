@@ -38,7 +38,7 @@ tags:
   - SiliconSnark
 ---
 
-本精读笔记为**雅思（IELTS）**与**考研英语**备考素材，聚焦 2010 年代后期至 2020 年代科技营销话语（区块链、Web3、元宇宙、AI、AGI/安全叙事等），与同系列前文衔接：[025 · 全书导读与 1995–2025 总览](025-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-Reading-Notes-2026-03-20.md)、[026 · 2000 年代篇](026-2000s-Tech-Marketing-Buzzwords-Early-Late-IELTS-Reading-Notes-2026-03-20.md)、[027 · 2010 年代初至中期篇](027-Early-Mid-2010s-Disruption-IoT-Digital-Transformation-Reading-Notes-2026-03-20.md)。
+本精读笔记为**雅思（IELTS）**与**考研英语**备考素材，聚焦 2010 年代后期至 2020 年代科技营销话语（区块链、Web3、元宇宙、AI、AGI/安全叙事等），与同系列前文衔接：[007 · 全书导读与 1995–2025 总览](007-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-Reading-Notes-2026-03-20.md)、[008 · 2000 年代篇](008-2000s-Tech-Marketing-Buzzwords-Early-Late-IELTS-Reading-Notes-2026-03-20.md)、[009 · 2010 年代初至中期篇](009-Early-Mid-2010s-Disruption-IoT-Digital-Transformation-Reading-Notes-2026-03-20.md)。
 
 **全文英文存档（SiliconSnark 同书）：** [📄 The Complete Guide to Tech Marketing Buzzwords (1995–2025) — English full text](../../articles/technology/002-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-2025-06-01.md)
 

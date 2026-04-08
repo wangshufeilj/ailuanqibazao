@@ -33,7 +33,7 @@ tags:
   - 消费科技
 ---
 
-**说明：** 纽约时报线上标题为 *Decoding the A.I.-Driven Tech Lingo From 2025*；本篇笔记标题沿用专栏常见表述「10 Pieces of Tech Jargon…」。**主题延伸：** 可与 [📄 科技营销流行语全史精读（1995–2025）](025-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-Reading-Notes-2026-03-20.md)、[📄 2000 年代科技营销流行语](026-2000s-Tech-Marketing-Buzzwords-Early-Late-IELTS-Reading-Notes-2026-03-20.md)、[📄 2010 年代初中期](027-Early-Mid-2010s-Disruption-IoT-Digital-Transformation-Reading-Notes-2026-03-20.md)、[📄 2010 年代末至 2020 年代](028-Late-2010s-to-2020s-Blockchain-Metaverse-AI-Buzzwords-Reading-Notes-2026-03-20.md) 对照阅读。
+**说明：** 纽约时报线上标题为 *Decoding the A.I.-Driven Tech Lingo From 2025*；本篇笔记标题沿用专栏常见表述「10 Pieces of Tech Jargon…」。**主题延伸：** 可与 [📄 科技营销流行语全史精读（1995–2025）](007-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-Reading-Notes-2026-03-20.md)、[📄 2000 年代科技营销流行语](008-2000s-Tech-Marketing-Buzzwords-Early-Late-IELTS-Reading-Notes-2026-03-20.md)、[📄 2010 年代初中期](009-Early-Mid-2010s-Disruption-IoT-Digital-Transformation-Reading-Notes-2026-03-20.md)、[📄 2010 年代末至 2020 年代](010-Late-2010s-to-2020s-Blockchain-Metaverse-AI-Buzzwords-Reading-Notes-2026-03-20.md) 对照阅读。
 
 ### 文章基本信息
 

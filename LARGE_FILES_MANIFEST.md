@@ -8,4 +8,4 @@
 - `videos/recordings/001-xxx.mp4` → 同目录下有 `001-xxx.md`
 - `research/papers/bibliography/001-xxx.pdf` → 同目录下有 `001-xxx.md`
 
-完整条目见 [INDEX.md](INDEX.md)。
+大文件条目分散在各保存目录的同名 `.md` 中，请按目录或全文搜索检索。

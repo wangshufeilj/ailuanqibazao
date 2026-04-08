@@ -5,7 +5,7 @@ source_url: https://techcrunch.com/2021/11/22/jina-ai-raises-30m-for-its-for-its
 author: Frederic Lardinois
 date: 2021-11-22
 created_date: 2026-03-19
-category: reading/notes/technology/ai-digital
+category: reading/notes/technology/ai-digital/company-funding
 tags:
   - Jina AI
   - 神经搜索

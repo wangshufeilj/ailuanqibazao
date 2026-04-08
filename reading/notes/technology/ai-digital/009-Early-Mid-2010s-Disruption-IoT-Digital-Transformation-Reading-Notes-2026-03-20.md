@@ -30,7 +30,7 @@ tags:
   - SiliconSnark
 ---
 
-本精读笔记为**雅思（IELTS）**与**考研英语**备考核心素材，聚焦 2010 年代初至中期科技营销话语（颠覆、数字化转型、IoT、「智能」前缀、Agile/DevOps 等），与同系列前文（如 [026 · 2000 年代篇](026-2000s-Tech-Marketing-Buzzwords-Early-Late-IELTS-Reading-Notes-2026-03-20.md)）及全书英文底稿衔接。
+本精读笔记为**雅思（IELTS）**与**考研英语**备考核心素材，聚焦 2010 年代初至中期科技营销话语（颠覆、数字化转型、IoT、「智能」前缀、Agile/DevOps 等），与同系列前文（如 [008 · 2000 年代篇](008-2000s-Tech-Marketing-Buzzwords-Early-Late-IELTS-Reading-Notes-2026-03-20.md)）及全书英文底稿衔接。
 
 **全文英文存档（SiliconSnark 同文）：** [📄 The Complete Guide to Tech Marketing Buzzwords (1995–2025) — English full text](../../articles/technology/002-The-Complete-Guide-to-Tech-Marketing-Buzzwords-1995-2025-2025-06-01.md)
 

@@ -16,7 +16,7 @@
 - `social/posts/education/002-Older-Student-College-Experience-Reddit-2026-03-11.md`
 
 ### 已修改的文件
-- `INDEX.md`
+- （示例：按 `git status` 实际输出为准）
 
 ---
 
@@ -65,7 +65,6 @@ git add .
 或者只添加特定文件：
 
 ```bash
-git add INDEX.md
 git add .cursor/rules/
 git add reading/
 git add social/
