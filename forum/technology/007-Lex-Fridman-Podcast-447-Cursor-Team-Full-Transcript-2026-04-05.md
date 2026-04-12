@@ -19,7 +19,7 @@ tags:
   - AI-assisted coding
   - programming
 note: Transcript is human-generated per Lex Fridman site; may contain errors.
-related_bilingual: reading/notes/technology/ai-digital/024-Lex-Fridman-447-Cursor-Team-Bilingual-Transcript-2026-04-05.md
+related_bilingual: reading/notes/technology/ai-digital/cursor-devtools/024-Lex-Fridman-447-Cursor-Team-Bilingual-Transcript-2026-04-05.md
 ---
 
 # Lex Fridman #447 — Cursor Team: Future of Programming with AI

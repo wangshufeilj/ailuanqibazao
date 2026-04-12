@@ -1,0 +1,25 @@
+---
+description: 短篇双语/三语翻译直接存入 memo/ 目录
+alwaysApply: true
+---
+
+# 短篇双语/三语翻译 → memo/
+
+## 触发条件（同时满足）
+
+1. 内容**以双语或三语逐句/逐段对照为主体**（如英中、日中、俄英中等任意组合）；
+2. 预计落稿**不超过约 1000 行**。
+
+满足以上两条时，**直接存入 `memo/`**，无需判断 LCC 主题或归入 `reading/notes/`。
+
+## 执行要点
+
+- **路径**：`memo/序号-标题-日期.md`，序号在 `memo/` 内独立流水（001、002…）。
+- **frontmatter**：至少包含 `title`、`source`、`date`、`category: memo`、`tags`；双语精读类可加 `language_pair`（如 `en-zh`、`ja-zh`）。
+- **命名风格**：与仓库其他文件一致，标题含语言标识或来源关键词（如 `Bilingual-Memo`、`Trilingual-Memo`）。
+- **硬换行**：仍遵守 `markdown-trilingual-hard-breaks.mdc`，对照行行尾加两空格。
+
+## 边界
+
+- 超过约 1000 行，或正文主体不是对照翻译（如含大段分析、背景综述），则按正常分类规则归入 `reading/notes/` 或其他目录，不强制放 `memo/`。
+- 用户明确指定其他路径时，以用户指令为准。

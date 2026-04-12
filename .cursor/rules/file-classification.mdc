@@ -9,11 +9,12 @@ alwaysApply: true
 
 ## 一、目录结构
 
-**内容类顶层目录 14 个**：articles、news、research、tutorials、reference、chinese-documents、social、**forum**、reading、creative、images、videos、data、audio；每类深度不超过 **4 层**。另含 **inbox**（待分类入口）、**collections**（精选收藏，脚本自动生成）、**generated**（AI 生成内容，见「六、其他说明」）。主题分类采用美国国会分类法（LCC），见下方「主题分类体系」。
+**内容类顶层目录 14 个**：articles、news、research、tutorials、reference、chinese-documents、social、**forum**、reading、creative、images、videos、data、audio；每类深度不超过 **4 层**。另含 **inbox**（待分类入口）、**collections**（精选收藏，脚本自动生成）、**generated**（AI 生成内容，见「六、其他说明」）、**memo**（短篇双语/三语翻译备忘，见 `memo-bilingual-short.mdc`）。主题分类采用美国国会分类法（LCC），见下方「主题分类体系」。
 
 ```
 d:\AI驱动整理乱七八糟\
 ├── inbox/                    # 待分类入口
+├── memo/                     # 短篇双语/三语翻译备忘（约 1000 行以内）
 ├── articles/                 # 文章（博客、专栏、长文）
 │   ├── general/              # 综合/总论
 │   ├── philosophy/           # 哲学、心理学、宗教
@@ -70,9 +71,7 @@ d:\AI驱动整理乱七八糟\
 │   ├── other-media/          # 其他媒体（商业媒体、行业媒体等）
 │   └── other/                # 其他（公文、通告、通稿、新闻、教程、民间文档等）
 ├── social/                   # 社交媒体/讨论
-│   ├── posts/                # 帖子：先按平台分子目录，再按 LCC 主题分子目录（见「social/posts 平台细分」）
-│   │   ├── reddit/
-│   │   │   └── education/    # 示例：reddit + 主题
+│   ├── posts/                # 帖子：先按平台分子目录，再按 LCC 主题分子目录（见「social/posts 平台细分」）；**Reddit 除外**（见 forum 节）
 │   │   ├── xiaohongshu/
 │   │   │   └── technology/   # 示例：小红书 + 主题
 │   │   └── other/            # 平台不明或小众平台可暂放 other/{主题}/
@@ -98,9 +97,12 @@ d:\AI驱动整理乱七八糟\
 │   │   │   ├── semiconductor/      # 芯片、晶圆、半导体产业链
 │   │   │   ├── automotive/         # 电动车、汽车工业、车企动态
 │   │   │   ├── shipping-logistics/ # 船运、港口、公路、物流
-│   │   │   ├── ai-digital/         # AI、大模型、软件、数字平台
+│   │   │   ├── ai-digital/         # AI、大模型、软件、数字平台（下设 anthropic-claude、cursor-devtools、llm-reasoning-buzzwords、cloud-platforms-legal、china-tech-media、company-funding 等）
 │   │   │   └── industry-policy/    # 产业政策、公司裁员、市场趋势、消费电子
-│   │   └── {其他 LCC 主题}/  # history、social-sciences、military 等按需建
+│   │   ├── social-sciences/  # 社会科学（经济、社会学）；宏观通胀等见 macro-policy/
+│   │   │   └── macro-policy/ # 宏观通胀、价格指数与央行预期（30+ 后细分）
+│   │   ├── agriculture/      # 农业（LCC S）：FAO、草场/牧业、粮食安全与可持续农业粮食体系等
+│   │   └── {其他 LCC 主题}/  # history、military 等按需建
 │   ├── excerpts/             # 摘录，其下按主题分子目录
 │   └── other/
 ├── images/                   # 图片（格式子目录下可按主题分）
@@ -224,12 +226,12 @@ d:\AI驱动整理乱七八糟\
 **强制规则（Agent 必须执行）**：任何内容子目录下 `.md` 文件数达到 **30 篇**，**必须**在下一次向该目录写入新文件前完成细分，不得继续往已超载的扁平目录堆积。
 
 **触发条件**：Agent 每次确定目标路径后，统计目标目录内现有 `.md` 文件数，若 **≥ 30**，则：
-1. **暂停写入**，先向用户说明目录已达阈值。
-2. **提出细分方案**：基于该目录现有文件的主题分布，列出 2–5 个子目录候选（命名参照"一级 LCC + 二级议题/产业"模式）。
-3. **等待用户确认**后，创建子目录、迁移现有文件、再写入新文件。
-4. **同步更新本规则文档**，补充新增子目录的说明。
+1. **立即停止**一切后续操作（不写入文件、不自行拟定方案、不执行任何移动）。
+2. **只向用户上报**：说明哪个目录已达到 30 篇阈值，当前打算写入的文件是什么。
+3. **等待用户指导**：由用户决定细分方案（子目录名称、归类逻辑等）后，Agent 再按用户指令执行拆分与写入。
+4. **同步更新本规则文档**，补充新增子目录的说明（在用户确认方案后执行）。
 
-> 若用户明确表示"暂不拆分、直接写入"，则以用户意志为准，但须在回复中提醒该目录已超载。
+> Agent 在触发阈值后，**禁止**自行提出细分候选方案或擅自开始迁移文件；一切主动权交还给用户。
 
 当前已细分的高流量目录（均曾触发此规则）：
 
@@ -272,10 +274,52 @@ d:\AI驱动整理乱七八糟\
 | 子目录 | 收录范围 |
 |---|---|
 | `company-funding/` | AI/软件公司 IPO、融资、估值、投行与律所顾问等相关阅读笔记 |
+| `anthropic-claude/` | Anthropic、Claude、Mythos、订阅与产品政策、官方/媒体围绕 Claude 的网络安全与安全能力报道 |
+| `cursor-devtools/` | Cursor、Composer、MCP、编码代理、Lex/Cursor 访谈、前端与开发者工具链相关精读 |
+| `llm-reasoning-buzzwords/` | 推理 LLM 综述与术语、科技营销话术/行话时间线、媒体「科技 jargon」类精读 |
+| `cloud-platforms-legal/` | 云与网络平台（如 Cloudflare）、爬虫/抓取诉讼、微软等平台级 AI 产品动态 |
+| `china-tech-media/` | 新华社/央视/中国日报等中文主流媒体视角下的科技产业与 AI 叙事（境内报道为主） |
 
-**归入口诀（ai-digital 内）**：IPO、融资轮、估值、承销商、上市筹备与律所顾问等公司资本市场议题 → `company-funding/`；其余大模型/应用/工具/平台 → 仍归 `ai-digital/` 根目录（历史文件可逐步迁移）。
+**归入口诀（ai-digital 内）**：  
+- IPO、融资轮、估值、承销商、上市筹备与律所顾问等公司资本市场议题 → `company-funding/`。  
+- Anthropic / Claude / Mythos / Glasswing 及同公司产品线、政策与媒体围绕其安全能力的稿件 → `anthropic-claude/`。  
+- Cursor 生态、编程助手、MCP、开发者访谈与工具定价/渠道类 → `cursor-devtools/`。  
+- 推理模型学术/产业综述、营销话术与行话系列、雅思/媒体 jargon 精读 → `llm-reasoning-buzzwords/`。  
+- 云平台网络流量与爬虫治理、平台诉讼、微软级平台 AI 新闻 → `cloud-platforms-legal/`。  
+- 新华社/央视/中国日报等**中文主媒**科技叙事 → `china-tech-media/`。  
+- 新增笔记时**勿再堆积于 `ai-digital/` 根目录**；若不确定子类，按上表择最近似一类归入。
 
-**归入口诀**（technology 二级）：涉及芯片/晶圆/半导体企业 → `semiconductor`；涉及整车/EV/车企 → `automotive`；涉及船舶/港口/公路运输 → `shipping-logistics`；涉及 AI/LLM/软件平台 → `ai-digital`（资本市场类见上表 `company-funding/`）；其余产业动态、公司新闻、消费品 → `industry-policy`。
+**归入口诀**（technology 二级）：涉及芯片/晶圆/半导体企业 → `semiconductor`；涉及整车/EV/车企 → `automotive`；涉及船舶/港口/公路运输 → `shipping-logistics`；涉及 AI/LLM/软件平台 → `ai-digital`（下设子目录见上表，资本市场类见 `company-funding/`）；其余产业动态、公司新闻、消费品 → `industry-policy`（下设子目录见下表，已触发 30+ 规则）。
+
+#### `reading/notes/technology/industry-policy/` 三级细分（已触发 30+ 规则）
+
+| 子目录 | 收录范围 |
+|---|---|
+| `manufacturing-upgrade/` | 制造业升级、产业政策（含中国科技创新、美国制造业投资）、能源基础设施、食品科技、城市建设等综合产业议题 |
+| `corporate-market/` | 企业裁员与调整、公司上市动态、媒体行业收缩、全球科技市场格局分析 |
+| `frontier-tech/` | 智慧农业、航天与卫星、消费电子新品（消费电子测评、未来技术应用场景） |
+
+**归入口诀**（industry-policy 三级）：
+- 制造业工厂投资、产业升级、能源基础设施、国别产业政策（中国科技、美国制造、能源）→ `manufacturing-upgrade/`。
+- 企业裁员/上市/整合、媒体与传统行业收缩、全球科技市场竞争报告 → `corporate-market/`。
+- 智慧农业系列、载人航天与 LEO 卫星、消费电子新品测评 → `frontier-tech/`。
+- 新增笔记时**勿再堆积于 `industry-policy/` 根目录**；若不确定子类，按上表择最近似一类归入。
+
+#### `reading/notes/social-sciences/` 二级细分（已触发 30+ 规则）
+
+| 子目录 | 收录范围 |
+|---|---|
+| `macro-policy/` | 宏观通胀、央行与利率预期、CPI/IPCA 等价格指数、金融机构共识预测、大宗商品与能源价格传导 |
+
+**归入口诀**：国别或区域宏观数据与通胀专题精读 → `macro-policy/`；其余社会科学议题（社会新闻、地方发展、消费与娱乐等）仍可按主题放在 `social-sciences/` 根目录，待后续再细分或迁移。
+
+#### `reading/notes/agriculture/`（LCC S）
+
+| 子目录 | 收录范围 |
+|---|---|
+| （根目录） | 粮农组织（FAO）与联合国农业议题、草场/牧场地（rangelands）、牧民（pastoralists）、可持续农业粮食体系、牧业与农村生计相关外文精读笔记 |
+
+**归入口诀**：主题落在农业、牧业、草场生态与粮食安全时 → `agriculture/`；若稿件明显属于智慧农业产业政策或制造业投资叙事且与 `industry-policy` 子类更贴近，可按该子类归入。
 
 #### `generated/summaries/` 主题子目录
 
@@ -290,8 +334,10 @@ d:\AI驱动整理乱七八糟\
 
 ### 论坛与平台类（forum）
 
-**forum/** 用于存放**外文的帖子、论坛讨论、平台公告/说明**等（如 Cursor 论坛、GitHub Discussions、Discord 公告、英文社区帖等）。其下按**主题**分子目录（与 LCC 映射一致，如 technology、politics、law、education、science 等）。  
+**forum/** 用于存放**外文的帖子、论坛讨论、平台公告/说明**等（如 Cursor 论坛、GitHub Discussions、Discord 公告、英文社区帖等）。其下按**主题**分子目录（与 LCC 映射一致，如 technology、politics、law、education、science、geography 等）。  
 **此类内容不放入 reading/notes/**：即便带精读/笔记形式，也归入 forum 对应主题下，以与「阅读笔记」区分。
+
+**Reddit（本仓库强制约定）**：来自 **Reddit** 的帖文、讨论串、转载讨论、双语精读整理等 **一律归入 `forum/{LCC主题}/`**，**不使用** `social/posts/reddit/`。序号在对应 `forum/{主题}/` 目录内独立流水。`frontmatter` 中 **`category`** 与完整路径一致（如 `forum/technology`），并保留 **`platform: reddit`** 与 **`source`**（写明子版块，如 `Reddit r/nationalparks`）。
 
 ---
 
@@ -303,13 +349,12 @@ d:\AI驱动整理乱七八糟\
 4. 无法匹配现有主题时，可新建主题子目录（见上文「可扩展性」）。
 5. **中文内容优先（与本节「中文文档类特色」强制约定一致）**：**中文为主**的文档（公文、通告、通稿、新闻、教程、民间资料、精读整理等），**默认一律**归入 `chinese-documents/`（按发布主体选子目录）；仅当明显属于其他顶层类别（如学术论文全文归档、多媒体元数据等）时再归入对应类别。不局限于党政机关、国企、事业单位等官方来源，也**不要求必须是官方原文**。
 6. **外文帖子/论坛/平台信息**：来自外文论坛、社区、产品官方讨论区、平台公告等的帖子/讨论/说明，**一律归入 forum/**，其下按主题分子目录；**不放入 reading/notes/**。
-7. **社交媒体帖子（social/posts）路径**：`social/posts/{platform}/{主题}/`。先判定**来源平台** `{platform}`（见下表，目录名用小写英文连字符），再按内容语义选 **LCC 主题** `{主题}`；**序号在 `social/posts/{platform}/{主题}/` 内独立流水**。frontmatter 中 **`category` 与完整相对路径一致**（如 `social/posts/reddit/education`），并推荐增加 **`platform`** 字段（与 `{platform}` 同名），便于检索。
+7. **社交媒体帖子（social/posts）路径**：`social/posts/{platform}/{主题}/`。先判定**来源平台** `{platform}`（见下表，目录名用小写英文连字符），再按内容语义选 **LCC 主题** `{主题}`；**序号在 `social/posts/{platform}/{主题}/` 内独立流水**。frontmatter 中 **`category` 与完整相对路径一致**（如 `social/posts/xiaohongshu/technology`），并推荐增加 **`platform`** 字段（与 `{platform}` 同名），便于检索。**注意：Reddit 不按本路径归档，见上文「论坛与平台类」中的 Reddit 约定。**
 
 **`{platform}` 常用取值（可扩展）**
 
 | 目录 slug | 平台说明 |
 |-----------|----------|
-| `reddit` | Reddit |
 | `xiaohongshu` | 小红书 |
 | `zhihu` | 知乎 |
 | `weibo` | 微博 |
@@ -324,9 +369,9 @@ d:\AI驱动整理乱七八糟\
 | `other` | 已知平台但上表未列、或需单独归类的来源 |
 | `unknown` | 暂无法判断平台（后续可人工改 slug 并移动文件） |
 
-**与 `forum/` 的区分**：`social/posts` 侧重**社交平台上的帖子/动态**（含中文平台）；`forum` 侧重**论坛长帖、社区公告、产品讨论区文档**等外文语境内容。若边界模糊，以「是否典型 SNS 信息流帖子」为准。
+**与 `forum/` 的区分**：`social/posts` 侧重**社交平台上的帖子/动态**（含中文平台，**不含 Reddit**）；`forum` 侧重**论坛长帖、社区公告、产品讨论区文档**等外文语境内容，且 **Reddit 全部分流至 forum**。若边界模糊（非 Reddit），以「是否典型 SNS 信息流帖子」为准。
 
-8. **「精读笔记」不是路径标签**：文件名或正文含「精读笔记」「阅读笔记」等，**不得**据此默认归入 `reading/notes/`。须**先行判定**应属哪一**顶层类别**：**绝大部分中文、非双语精读**的精读整理 → 见上文「精读笔记须先分流」，**一律 `chinese-documents/`**；**双语精读**（外汉逐句对照为主干）→ 可 `reading/notes/{LCC主题}/`。其余例如原文主体为新华社/人民日报等中央媒体或党政机关通稿、政策解读 → **`chinese-documents/`** 下对应子目录（**中文为主时禁止**因「笔记」体裁改放 `reading/notes/`）；外文论坛/产品讨论区长帖 → `forum/`；社交平台动态 → `social/posts/`；通讯社/报刊深度稿且按文章归档 → `articles/` 或 `news/` 等。**仅当**内容为外文材料精读或外文主体、且**不符合**上文「中文为主 → chinese-documents」时，再归入 `reading/notes/{LCC主题}/`。
+8. **「精读笔记」不是路径标签**：文件名或正文含「精读笔记」「阅读笔记」等，**不得**据此默认归入 `reading/notes/`。须**先行判定**应属哪一**顶层类别**：**绝大部分中文、非双语精读**的精读整理 → 见上文「精读笔记须先分流」，**一律 `chinese-documents/`**；**双语精读**（外汉逐句对照为主干）→ 可 `reading/notes/{LCC主题}/`。其余例如原文主体为新华社/人民日报等中央媒体或党政机关通稿、政策解读 → **`chinese-documents/`** 下对应子目录（**中文为主时禁止**因「笔记」体裁改放 `reading/notes/`）；外文论坛/产品讨论区长帖 → `forum/`；**Reddit** → `forum/`（见上文约定）；其他社交平台动态 → `social/posts/`；通讯社/报刊深度稿且按文章归档 → `articles/` 或 `news/` 等。**仅当**内容为外文材料精读或外文主体、且**不符合**上文「中文为主 → chinese-documents」时，再归入 `reading/notes/{LCC主题}/`。
 
    **Agent 易错反例（须避免）**：**省党报**（如《新华日报》《浙江日报》）及**人民网等地方频道**对招考、就业、民生政策的报道，即便整理为「精读笔记」、正文涉及事业单位或考编，仍按**发布来源**归入 `chinese-documents/local-media/`（若体裁为机关/事业单位**正式招聘公告原文**且以公告归档为主，可归 `chinese-documents/recruitment/`）。**禁止**仅因话题像「考编」「事业单位」就放入 `reading/notes/education/civil-service-exam/` 或仅凭 LCC「教育」主题覆盖中文媒体稿。
 
@@ -397,7 +442,7 @@ d:\AI驱动整理乱七八糟\
 当用户提供 Markdown、网页全选粘贴、长文、笔记、摘录等内容时（含上述默认视为保存的情形）：
 
 1. **判断模式**：用户使用暗号 12306 或明确要求空文件 → 仅创建空文件；否则 → 生成完整内容
-2. **确定路径**：**先**按第三节「分类原则」判定顶层类别（含原则 5～8：中文来源、`forum`、`social/posts`、**勿仅凭「精读笔记」字样**等）；暗号 95533 → `reading/notes/education/civil-service-exam/` 等考公目录；其余情况 → 在已定顶层类别下按 LCC 选子目录（如 `chinese-documents/central-media/`、`reading/notes/{主题}/`、`articles/{主题}/`、`social/posts/{platform}/{主题}/`）
+2. **确定路径**：**先**按第三节「分类原则」判定顶层类别（含原则 5～8：中文来源、`forum`、`social/posts`、**勿仅凭「精读笔记」字样**等）；暗号 95533 → `reading/notes/education/civil-service-exam/` 等考公目录；其余情况 → 在已定顶层类别下按 LCC 选子目录（如 `chinese-documents/central-media/`、`reading/notes/{主题}/`、`articles/{主题}/`、`forum/{主题}/`（含 Reddit）、`social/posts/{platform}/{主题}/`（非 Reddit））
 3. **目录容量检查（强制）**：统计步骤 2 确定的目标目录内现有 `.md` 文件数。**若 ≥ 30，触发细分流程**（见第二节「高流量 LCC 目录的混合细分原则」），完成细分后再继续后续步骤；若 < 30，直接进入步骤 4。
 4. **查询序号**：目标子目录内流水号（001、002…）
 5. **提炼标题**：按 `序号-标题-日期.md` 命名
