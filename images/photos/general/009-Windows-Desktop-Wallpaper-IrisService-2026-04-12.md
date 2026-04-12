@@ -1,21 +1,23 @@
 ---
-title: 热带海岸日落与花岗岩巨石（Windows Iris 当前壁纸）
+
+## title: 热带海岸日落与花岗岩巨石（Windows Iris 当前壁纸）
 date: 2026-04-12
 category: images/photos/general
----
 
 # 元信息
 
-| 字段 | 内容 |
-|------|------|
-| 标题 | 热带海岸日落与花岗岩巨石（Windows Iris 当前壁纸） |
-| 类型 | 桌面壁纸 / 自然风景摄影 |
-| 来源 | 注册表 `HKCU\Control Panel\Desktop\Wallpaper` → Windows **IrisService** 缓存：`C:\Users\xujia\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalCache\Microsoft\IrisService\12623120675943255040\134201813142327592.jpg` |
-| 日期 | 2026-04-12（录入） |
-| 归档文件 | `009-Windows-Desktop-Wallpaper-IrisService-2026-04-12.jpg` |
-| 分辨率 / 大小 | **3840 × 2160**（4K UHD，16∶9）；约 **2.06 MiB**（2 164 624 字节） |
-| 主题 | 综合（热带海岸、日落、棕榈与植被、浅滩与花岗岩巨石） |
-| 摘要链接 | [摘要](../../generated/summaries/other/037-Windows-Desktop-Wallpaper-IrisService-2026-04-12.md) |
+
+| 字段       | 内容                                                                                                                                                                                                                                     |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 标题       | 热带海岸日落与花岗岩巨石（Windows Iris 当前壁纸）                                                                                                                                                                                                        |
+| 类型       | 桌面壁纸 / 自然风景摄影                                                                                                                                                                                                                          |
+| 来源       | 注册表 `HKCU\Control Panel\Desktop\Wallpaper` → Windows **IrisService** 缓存：`C:\Users\xujia\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalCache\Microsoft\IrisService\12623120675943255040\134201813142327592.jpg` |
+| 日期       | 2026-04-12（录入）                                                                                                                                                                                                                         |
+| 归档文件     | `009-Windows-Desktop-Wallpaper-IrisService-2026-04-12.jpg`                                                                                                                                                                             |
+| 分辨率 / 大小 | **3840 × 2160**（4K UHD，16∶9）；约 **2.06 MiB**（2 164 624 字节）                                                                                                                                                                              |
+| 主题       | 综合（热带海岸、日落、棕榈与植被、浅滩与花岗岩巨石）                                                                                                                                                                                                             |
+| 摘要链接     | [摘要](../../generated/summaries/other/037-Windows-Desktop-Wallpaper-IrisService-2026-04-12.md)                                                                                                                                          |
+
 
 ## 说明
 
