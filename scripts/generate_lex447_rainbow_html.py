@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""从 026 双语 Markdown 生成约 20% 关键词七彩炫彩 HTML（预设 A）。"""
+"""从 024 Lex/Cursor 双语 Markdown 生成约 20% 关键词七彩炫彩 HTML（预设 A）。"""
 from __future__ import annotations
 
 import html
@@ -7,8 +7,8 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SRC = ROOT / "reading/notes/technology/ai-digital/026-Lex-Fridman-447-Cursor-Team-Bilingual-Transcript-2026-04-05.md"
-OUT = ROOT / "reading/notes/technology/ai-digital/026-Lex-Fridman-447-Cursor-Team-Bilingual-Transcript-rainbow-2026-04-05.html"
+SRC = ROOT / "reading/notes/technology/ai-digital/cursor-devtools/024-Lex-Fridman-447-Cursor-Team-Bilingual-Transcript-2026-04-05.md"
+OUT = ROOT / "reading/notes/technology/ai-digital/cursor-devtools/024-Lex-Fridman-447-Cursor-Team-Bilingual-Transcript-rainbow-2026-04-05.html"
 
 TARGET_RATIO = 0.20
 
