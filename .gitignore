@@ -25,3 +25,8 @@ Thumbs.db
 # Cursor 项目本地数据（保留 .cursor/rules/）
 .cursor/projects/
 .cursor/agent-transcripts/
+
+# 手动排除（命名约定：扩展名为 .nopush.md 的文件均不提交）
+# 用法：将需要忽略的文件扩展名由 .md 改为 .nopush.md 即可，无需再改本文件
+# 示例：027-xxx-2026-04-19.md → 027-xxx-2026-04-19.nopush.md
+*.nopush.md
